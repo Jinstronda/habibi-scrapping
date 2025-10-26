@@ -8,10 +8,10 @@ import config
 def setup_logging():
     """Configure logging for scraper."""
     logging.basicConfig(
-        level=logging.DEBUG,  # Changed to DEBUG to see extraction details
+        level=logging.INFO,  # INFO level - no HTTP request spam
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler('attendees_scraper.log'),
+            logging.FileHandler('attendees_scraper.log', encoding='utf-8'),
             logging.StreamHandler()
         ]
     )

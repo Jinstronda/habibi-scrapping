@@ -3,7 +3,17 @@
     "allow": [
       "mcp__sequentialThinking__sequentialthinking",
       "Bash(git remote add:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Read(//c/Users/joaop/Downloads/**)",
+      "Bash(copy \"scraper\\device.py\" \"scraper_attendees\\device.py\")",
+      "Bash(copy \"scraper\\utils.py\" \"scraper_attendees\\utils.py\")",
+      "Bash(copy \"scraper\\setup.py\" \"scraper_attendees\\setup.py\")",
+      "Bash(copy \"scraper\\requirements.txt\" \"scraper_attendees\\requirements.txt\")",
+      "Bash(dir:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(cat:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
     ],
     "deny": [],
     "ask": []

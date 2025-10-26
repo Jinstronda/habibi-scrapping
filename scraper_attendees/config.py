@@ -7,7 +7,7 @@ SCREENSHOT_DIR = "screenshots_attendees"
 # Timeouts (seconds) - MAXIMUM SPEED
 CLICK_TIMEOUT = 0.2
 PAGE_LOAD_TIMEOUT = 0.8
-SCROLL_WAIT = 0.1
+SCROLL_WAIT = 0.01
 
 # Element selectors - UPDATE THESE after UI inspection with setup.py
 APP_PACKAGE = "com.swapcard.apps.android.adipec"
@@ -46,3 +46,11 @@ DB_PATH = "attendees_data.db"
 MAX_RETRIES = 3
 SAVE_SCREENSHOTS_ON_ERROR = True
 MAX_ATTENDEES = None  # None = unlimited, or set a number for fixed count
+
+# Batch extraction optimization (EXPERIMENTAL)
+# Set USE_BATCH_EXTRACTION=True to extract 11 items at once (faster)
+# Instead of 33 device calls per screen, makes only 1 XML dump
+USE_BATCH_EXTRACTION = True  # Set to True to enable (test on 50 attendees first!)
+ENABLE_FALLBACK = False         # Auto-fallback to current method if batch fails
+VALIDATE_EXTRACTIONS = True    # Enable runtime sanity checks on extracted data
+BATCH_SIZE = 11                # Items to extract per batch (one screen)

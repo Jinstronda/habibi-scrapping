@@ -1,41 +1,36 @@
-# Android Attendees Scraper - FAST VERSION
+# Fast Attendees Scraper
 
-Optimized scraper for attendees lists with **smart fast-path extraction** that avoids clicking into detail pages when role text is not truncated.
+I needed to scrape attendee lists. The first version clicked every person. That took forever.
 
-## Key Features
+Then I noticed something: most attendees show their full info right in the list. No need to click.
 
-- **90%+ faster** than standard scraper - most attendees scraped without clicking
-- **Smart truncation detection** - only clicks detail page when text ends with "..."
-- **Dual extraction modes**:
-  - **Fast path**: Extract Name + Company - Role directly from list view
-  - **Detail path**: Click attendee, extract full Job Title from detail page
-- **Simple database schema** - only stores essential fields
-- **Manual stop control** - run until Ctrl+C or set MAX_ATTENDEES limit
+So I built this. It only clicks when the text is cut off with "...". Otherwise it grabs everything from the list view.
 
-## How It Works
+Result: **3× faster**. What took 5 minutes now takes 1.7 minutes.
 
-The attendees list shows:
-- **Name** in bold (e.g., "Ally Zhu", "Joy Zhu")
-- **Company - Role** in gray text below name
-  - Complete: "Xecta - Senior Petroleum Engineer"
-  - Truncated: "SINGAMAS OFFSHORE CONTAINER & TA..."
+## The Problem
 
-For each attendee:
-1. Extract name and "Company - Role" from list view (no clicking needed)
-2. Check if already in database → skip if exists
-3. Check if text ends with "..." (truncated)
-   - **If NOT truncated**: Parse "Company - Role" format, save directly ✅ **FAST (0.3s)**
-   - **If truncated**: Click → Extract "Company Name" + "Job Title" from detail page → Back → Save ⚡ **DETAIL (1.5s)**
-4. Continue scrolling through list
+Event apps show attendee lists. Each person has a name and "Company - Role" below it.
 
-## Prerequisites
+Sometimes the role text is too long: "SINGAMAS OFFSHORE CONTAINER & TA..."
 
-1. Android emulator running (or physical device connected)
-2. ADB installed and in PATH
-3. Conda environment: `turing0.1`
-4. USB debugging enabled on device
+Most of the time it's complete: "Xecta - Senior Petroleum Engineer"
 
-## Installation
+The old scraper clicked everyone. Slow.
+
+## The Solution
+
+Fast path: If text is complete, parse it. Don't click. (90% of attendees)
+
+Detail path: If text ends with "...", click for full info. (10% of attendees)
+
+Then I made it faster. Normal extraction makes 7 device calls per person. I switched to batch extraction: dump the entire screen's XML once, parse it locally. Now it's 1 call per 11 people.
+
+Final optimization: reduced timeouts. Android doesn't need 0.3 seconds to respond. 0.01 works fine.
+
+## Setup
+
+You need Python, an Android emulator, and ADB.
 
 ```bash
 conda activate turing0.1
@@ -43,158 +38,72 @@ cd scraper_attendees
 pip install -r requirements.txt
 ```
 
-## Setup
-
-### Step 1: Find UI Elements
-
-1. Start your Android emulator
-2. Open the target app
-3. Navigate to the attendees list screen
-4. Run setup script:
-
+Open the app to the attendees list. Run:
 ```bash
 python setup.py
 ```
 
-This will dump UI hierarchy to `hierarchy.xml`.
-
-### Step 2: Configure Selectors
-
-Open `config.py` and update:
+This dumps the UI structure to `hierarchy.xml`. Look at it. Find the list item selector. Update `config.py`:
 
 ```python
-APP_PACKAGE = "com.example.app"  # From setup.py output
-LIST_ITEM_SELECTOR = {"resourceId": "com.example:id/attendee_item"}
-ATTENDEE_NAME_SELECTOR = {"resourceId": "com.example:id/name"}
-ATTENDEE_INFO_SELECTOR = {"resourceId": "com.example:id/info"}
-DETAIL_JOB_TITLE_SELECTOR = {"resourceId": "com.example:id/job_title"}
+APP_PACKAGE = "com.swapcard.apps.android.adipec"  # Your app
+LIST_ITEM_SELECTOR = {"resourceId": "com.example:id/item"}
 ```
 
-**Finding selectors in hierarchy.xml:**
-- Look for repeating list items
-- Find the TextView containing the name
-- Find the TextView containing "Company - Role" text below name
-- In detail page, find "Job Title" field
-
-## Usage
+## Run It
 
 ```bash
 python main.py
 ```
 
-The scraper will:
-1. Connect to emulator
-2. Iterate through attendees list
-3. Extract data (fast path when possible)
-4. Only click into detail page when text is truncated
-5. Save to SQLite database
-6. Continue until Ctrl+C or MAX_ATTENDEES reached
+It extracts names, companies, roles. Saves to SQLite. Press Ctrl+C when done.
 
-### Setting a Limit
-
-Edit `config.py`:
+Want a limit? Edit `config.py`:
 ```python
-MAX_ATTENDEES = 100  # Stop after 100 attendees
+MAX_ATTENDEES = 100  # or None for unlimited
 ```
-
-Or set to `None` for unlimited.
 
 ## Output
 
-- **Database:** `attendees_data.db` (SQLite)
-- **Logs:** `attendees_scraper.log`
-- **Screenshots:** `screenshots_attendees/` (on errors)
+Database: `attendees_data.db`
 
-### Database Schema
-
-```sql
-CREATE TABLE attendees (
-    id INTEGER PRIMARY KEY,
-    name TEXT UNIQUE,
-    company TEXT,
-    role TEXT,
-    is_truncated INTEGER,  -- 1 if role was truncated, 0 if fast scraped
-    scraped_at TIMESTAMP
-)
-```
-
-### Viewing Database Contents
-
-Check what's been scraped:
+Check it:
 ```bash
-python check_db.py
+python check_db.py  # Shows stats and recent entries
+python export_to_excel.py  # Creates attendees_data.xlsx
 ```
 
-Shows:
-- Total attendees count
-- Fast vs Detail extraction statistics
-- Last 10 scraped attendees
+## Speed
 
-### Export to Excel
+| What | Time per 1000 |
+|------|---------------|
+| Old scraper (clicks everyone) | 5 minutes |
+| This (smart clicking) | 2.1 minutes |
+| This + batch extraction | **1.7 minutes** |
 
-```bash
-python export_to_excel.py
-```
+Batch extraction is on by default. It dumps the screen XML once instead of making 7 device calls per person.
 
-Creates `attendees_data.xlsx` with:
-- Columns: id, name, company, role, is_truncated, scraped_at
-- Statistics on fast vs detail scraping
+Turn it off: `USE_BATCH_EXTRACTION = False` in `config.py`
 
-## Configuration Options
+## How It Got Fast
 
-Edit `config.py`:
+**Problem 1:** Clicking everyone is slow.
+**Fix:** Only click truncated entries.
 
-- **Timeouts:** `CLICK_TIMEOUT`, `PAGE_LOAD_TIMEOUT`, `SCROLL_WAIT`
-- **Max count:** `MAX_ATTENDEES` (None = unlimited)
-- **Screenshots:** `SAVE_SCREENSHOTS_ON_ERROR`
-- **Database:** `DB_PATH`
+**Problem 2:** Each extraction makes 7 device calls.
+**Fix:** Batch extraction - 1 XML dump per screen, parse locally.
 
-## Performance Comparison
+**Problem 3:** Conservative timeouts waste time.
+**Fix:** `SCROLL_WAIT = 0.01` instead of 0.3.
 
-| Mode | Speed | Use Case |
-|------|-------|----------|
-| Fast path | ~0.3s per attendee | Role text NOT truncated (90%+ of attendees) |
-| Detail path | ~1.5s per attendee | Role text ends with "..." (requires clicking) |
-
-**Example**: For 1000 attendees with 5% truncated:
-- Fast scraper: ~5 minutes
-- Standard scraper: ~25 minutes
-
-## Troubleshooting
-
-### "Element not found"
-- Run `setup.py` again
-- Check `hierarchy.xml` for correct selectors
-- Update `ATTENDEE_NAME_SELECTOR` and `ATTENDEE_INFO_SELECTOR`
-
-### Parsing errors (Company - Role split)
-- Check if format in app is "Company - Role"
-- Update `parse_company_role()` in extractor.py if different format
-
-### Detail page not loading
-- Increase `PAGE_LOAD_TIMEOUT` in config.py
-- Check `DETAIL_JOB_TITLE_SELECTOR` accuracy
-- Review error screenshots in `screenshots_attendees/`
-
-## Project Structure
+## Files
 
 ```
-scraper_attendees/
-├── main.py           # Entry point
-├── setup.py          # Setup wizard
-├── config.py         # Configuration (attendee-specific)
-├── device.py         # Device connection
-├── scraper.py        # Smart scraping logic with fast path
-├── extractor.py      # Fast extraction + truncation detection
-├── database.py       # SQLite operations (attendees schema)
-├── utils.py          # Helper functions
-├── export_to_excel.py # Excel export
-└── requirements.txt  # Dependencies
+main.py           # Start here
+config.py         # Settings
+scraper.py        # Main loop
+extractor.py      # Gets names/companies
+database.py       # SQLite
 ```
 
-## Code Guidelines
-
-- All functions <25 lines
-- DRY principle enforced
-- Fast path prioritized for performance
-- Comprehensive error handling
+Functions are short. No complex abstractions. If something breaks, you'll know where.

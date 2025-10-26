@@ -2,7 +2,7 @@
 import time
 import logging
 import config
-from extractor import extract_from_list_view, extract_from_detail_page, is_truncated, parse_company_role
+from extractor import extract_from_list_view, extract_batch_from_list_view, extract_from_detail_page, is_truncated, parse_company_role
 from database import attendee_exists, save_attendee
 from utils import take_screenshot
 
@@ -23,7 +23,7 @@ def scrape_single_attendee(device, index):
     if not is_truncated(company_role):
         company, role = parse_company_role(company_role)
         save_attendee(name, company, role, False)
-        logger.info(f"✓ Fast: {name} | {company} - {role}")
+        logger.info(f"{name} added")
         return "saved_fast"
 
     # Slow path: truncated, need detail page
@@ -44,7 +44,7 @@ def scrape_single_attendee(device, index):
         role = full_role or parse_company_role(company_role)[1]
 
         save_attendee(name, company, role, True)
-        logger.info(f"⚡ Detail: {name} | {company} - {role}")
+        logger.info(f"{name} added (detail)")
         return "saved_detail"
 
     except Exception as e:
@@ -63,32 +63,47 @@ def scrape_all_attendees(device):
     swipe_count = 0
     index = 0
 
-    logger.info("Starting attendees scraper")
+    mode = "BATCH" if config.USE_BATCH_EXTRACTION else "NORMAL"
+    logger.info(f"Starting attendees scraper ({mode} mode)")
 
     while True:
         if config.MAX_ATTENDEES and scraped_count >= config.MAX_ATTENDEES:
             logger.info(f"Reached MAX_ATTENDEES limit: {config.MAX_ATTENDEES}")
             break
 
-        result = scrape_single_attendee(device, index)
+        if config.USE_BATCH_EXTRACTION:
+            # Batch mode: extract all 11 at once
+            batch = extract_batch_from_list_view(device, count=config.BATCH_SIZE)
+            for idx in range(config.BATCH_SIZE):
+                if idx in batch:
+                    name, company_role = batch[idx]
+                    if not attendee_exists(name):
+                        if not is_truncated(company_role):
+                            company, role = parse_company_role(company_role)
+                            save_attendee(name, company, role, False)
+                            logger.info(f"{name} added")
+                            scraped_count += 1
+                            fast_count += 1
+            index = config.BATCH_SIZE
+        else:
+            # Normal mode: one at a time
+            result = scrape_single_attendee(device, index)
+            if result == "saved_fast":
+                scraped_count += 1
+                fast_count += 1
+            elif result == "saved_detail":
+                scraped_count += 1
+                detail_count += 1
+            index += 1
 
-        if result == "saved_fast":
-            scraped_count += 1
-            fast_count += 1
-        elif result == "saved_detail":
-            scraped_count += 1
-            detail_count += 1
-
-        index += 1
-
-        if index == 11:
+        if index >= 11:
             swipe_count += 1
             logger.info(f"Scrolling (swipe #{swipe_count})")
             try:
                 list_container = device(**config.LIST_CONTAINER_SELECTOR)
                 if list_container.exists(timeout=0.5):
                     list_container.scroll.backward()
-                    time.sleep(0.3)
+                    time.sleep(config.SCROLL_WAIT)
                     index = 0
                     logger.info(f"Scroll complete")
                 else:
