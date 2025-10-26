@@ -1,24 +1,28 @@
-# Android App Scraper
+# People Scraper
 
-Automated scraper for extracting data from Android apps using uiautomator2.
+I needed complete profiles. Every field. Everything the app shows when you click someone.
 
-## Features
+This scraper clicks every person, presses "show more", and extracts all visible text.
 
-- Automatic list iteration with scrolling
-- Clicks "show more" button to expand all data
-- Extracts all visible text and metadata
-- SQLite database storage with deduplication
-- Error handling with screenshots
-- Retry logic for flaky operations
+Use this when you need the full dataset. Not just names and titles, but everything.
 
-## Prerequisites
+**Speed:** 1.5s per person
 
-1. Android emulator running (or physical device connected)
-2. ADB installed and in PATH
-3. Conda environment: `turing0.1`
-4. USB debugging enabled on device
+**Database:** JSON blob containing all extracted fields
 
-## Installation
+**Stop condition:** Reaches a specific name marker
+
+## The Approach
+
+The app shows a list of people. Click one, you get their profile. Click "show more", you see everything.
+
+So that's what this does. Iterate through the list, click each person, expand the details, save everything.
+
+It stores the data as a JSON blob. No schema guessing. Whatever the app shows, we capture.
+
+## Setup
+
+You need Python, an Android emulator, and ADB.
 
 ```bash
 conda activate turing0.1
@@ -26,66 +30,43 @@ cd scraper
 pip install -r requirements.txt
 ```
 
-## Setup
-
-### Step 1: Find App Package Name and UI Elements
-
-1. Start your Android emulator
-2. Open the target app
-3. Navigate to the screen with the list of people
-4. Run setup script:
-
+Open the app to the people list. Run:
 ```bash
 python setup.py
 ```
 
-This will:
-- Identify the app package name
-- Dump UI hierarchy to `hierarchy.xml`
-- Show you what to configure
-
-### Step 2: Configure Selectors
-
-Open `config.py` and update:
+This dumps the UI structure to `hierarchy.xml`. Look at it. Find the list item selector and the "show more" button. Update `config.py`:
 
 ```python
-APP_PACKAGE = "com.example.app"  # From setup.py output
-LIST_ITEM_SELECTOR = {"resourceId": "com.example:id/person_item"}  # From hierarchy.xml
-SHOW_MORE_BUTTON = {"text": "show more"}  # Adjust if different
+APP_PACKAGE = "com.swapcard.apps.android.adipec"  # Your app
+LIST_ITEM_SELECTOR = {"resourceId": "com.example:id/item"}
+SHOW_MORE_BUTTON = {"text": "show more"}  # Or whatever it says
 ```
 
-**Finding selectors in hierarchy.xml:**
-- Look for repeating elements (list items)
-- Check attributes: `resource-id`, `class`, `text`, `content-desc`
-- Common patterns:
-  - `{"resourceId": "com.app:id/element"}`
-  - `{"className": "android.widget.TextView"}`
-  - `{"text": "Show More", "className": "android.widget.Button"}`
-
-## Usage
+## Run It
 
 ```bash
 python main.py
 ```
 
-The scraper will:
-1. Connect to emulator
-2. Iterate through list items
-3. Click each person
-4. Click "show more" button
-5. Extract all visible data
-6. Press back button
-7. Save to SQLite database
-8. Continue until list is exhausted
+It clicks each person. Presses "show more". Extracts everything. Saves to SQLite.
+
+The scraper stops when it reaches a specific name you set in `config.py`:
+
+```python
+STOP_MARKER = "Your Name Here"  # When it hits this name, it stops
+```
 
 ## Output
 
-- **Database:** `people_data.db` (SQLite)
-- **Logs:** `scraper.log`
-- **Screenshots:** `screenshots/` (on errors)
+Database: `people_data.db`
 
-### Viewing Data
+Each person gets stored with:
+- Name
+- Timestamp
+- Raw JSON containing all extracted text fields
 
+Check it:
 ```python
 import sqlite3
 import json
@@ -95,70 +76,18 @@ cursor = conn.cursor()
 cursor.execute("SELECT * FROM people")
 for row in cursor.fetchall():
     print(f"\nName: {row[1]}")
-    print(f"Scraped: {row[2]}")
     data = json.loads(row[3])
     print(f"Fields: {data['all_fields']}")
 ```
 
-## Configuration Options
-
-Edit `config.py` to adjust:
-
-- **Timeouts:** `CLICK_TIMEOUT`, `PAGE_LOAD_TIMEOUT`, `SCROLL_WAIT`
-- **Retries:** `MAX_RETRIES`
-- **Screenshots:** `SAVE_SCREENSHOTS_ON_ERROR`
-- **Database:** `DB_PATH`
-
-## Troubleshooting
-
-### "No device connected"
-```bash
-adb devices
-# If empty, restart emulator or run:
-adb kill-server && adb start-server
-```
-
-### "Element not found"
-- Run `setup.py` again to dump UI hierarchy
-- Check `hierarchy.xml` for correct selectors
-- Update `config.py` with accurate resource IDs
-
-### "Show more button not found"
-- Check button text in app (case-sensitive)
-- Update `SHOW_MORE_BUTTON` in config.py
-- Try different selector strategies (resourceId, className)
-
-### App crashes during scraping
-- Increase timeouts in config.py
-- Check logs in `scraper.log`
-- View error screenshots in `screenshots/`
-
-## Project Structure
+## Files
 
 ```
-scraper/
-├── main.py           # Entry point
-├── setup.py          # Setup wizard
-├── config.py         # Configuration
-├── device.py         # Device connection
-├── scraper.py        # List iteration logic
-├── extractor.py      # Data extraction
-├── database.py       # SQLite operations
-├── utils.py          # Helper functions
-└── requirements.txt  # Dependencies
+main.py           # Start here
+config.py         # Settings
+scraper.py        # Main loop
+extractor.py      # Gets all visible text
+database.py       # SQLite
 ```
 
-## Code Guidelines
-
-- All functions <25 lines (CLAUDE.md compliance)
-- DRY principle enforced
-- Retry logic for reliability
-- Comprehensive error handling
-
-## Next Steps
-
-1. Run `setup.py` to identify your app
-2. Update `config.py` with selectors
-3. Test with `python main.py`
-4. Adjust selectors if needed
-5. Let it run to scrape all data
+Functions are short. No complex abstractions. If something breaks, you'll know where.
