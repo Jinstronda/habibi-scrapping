@@ -1,0 +1,17 @@
+2025-10-23 03:18:18,821 - INFO - Starting Android app scraper
+2025-10-23 03:18:19,642 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:18:22,283 - INFO - Scraped Mr Rana  Kar (1 total)
+2025-10-23 03:18:24,729 - INFO - Scraped Ms Ayushi Chauhan (2 total)
+2025-10-23 03:18:26,874 - INFO - Clicked 'show more' button
+2025-10-23 03:18:31,391 - INFO - Scraped Engr Boumedyen HANFER (3 total)
+2025-10-23 03:18:34,080 - INFO - Scraped Mr Guido  Brusco (4 total)
+2025-10-23 03:18:36,557 - INFO - Scraped Mr Udy Ntia (5 total)
+2025-10-23 03:18:39,225 - INFO - Scraped Mr Hunter  Horgan (6 total)
+2025-10-23 03:18:43,612 - INFO - Scraped AMETEK MIDDLE EAST FZE (7 total)
+2025-10-23 03:18:53,593 - INFO - Scraped Brooks Instrument (8 total)
+2025-10-23 03:19:00,715 - INFO - Scraped FUZE Group Pty Ltd (9 total)
+2025-10-23 03:19:05,213 - INFO - Scraped JIANGSU YIDELONG PETROLEUM MACHINERY CO.,LTD (10 total)
+2025-10-23 03:19:08,268 - INFO - Scraped On-site application (11 total)
+2025-10-23 03:19:08,268 - INFO - Scrolling after 11 attempts
+2025-10-23 03:19:09,531 - INFO - Scroll complete
+2025-10-23 03:19:13,982 - INFO - Scraped Shengli Oilfield Shengji Petroleum Equipment Co., Ltd. (12 total)

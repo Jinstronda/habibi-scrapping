@@ -1,0 +1,1163 @@
+2025-10-23 02:31:03,414 - INFO - Starting Android app scraper
+2025-10-23 02:31:06,184 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 02:31:12,512 - INFO - Clicked 'show more' button with pattern: {'resourceId': 'com.swapcard.apps.android.adipec:id/expandDescriptionBtn'}
+2025-10-23 02:31:18,392 - INFO - Scraped 2:31 (1 total)
+2025-10-23 02:31:27,423 - INFO - Clicked 'show more' button with pattern: {'textContains': 'more'}
+2025-10-23 02:31:39,260 - INFO - Clicked 'show more' button with pattern: {'resourceId': 'com.swapcard.apps.android.adipec:id/expandDescriptionBtn'}
+2025-10-23 02:32:01,270 - INFO - Scraped 2:32 (2 total)
+2025-10-23 02:32:26,340 - INFO - Clicked 'show more' button with pattern: {'textContains': 'more'}
+2025-10-23 02:34:53,794 - INFO - Starting Android app scraper
+2025-10-23 02:34:55,307 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 02:35:11,813 - INFO - Scraped 2:35 (1 total)
+2025-10-23 02:35:19,043 - INFO - Clicked 'show more' button with pattern: {'resourceId': 'com.swapcard.apps.android.adipec:id/expandDescriptionBtn'}
+2025-10-23 02:35:45,190 - INFO - Clicked 'show more' button with pattern: {'textContains': 'more'}
+2025-10-23 02:36:01,715 - INFO - Scraped 2:36 (2 total)
+2025-10-23 02:36:07,475 - INFO - Clicked 'show more' button with pattern: {'resourceId': 'com.swapcard.apps.android.adipec:id/expandDescriptionBtn'}
+2025-10-23 02:48:59,490 - INFO - Starting Android app scraper
+2025-10-23 02:49:02,796 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 02:49:06,311 - INFO - Scraped 2:49 (1 total)
+2025-10-23 02:49:20,380 - INFO - Starting Android app scraper
+2025-10-23 02:49:22,119 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 02:49:23,925 - INFO - Clicked 'show more' button
+2025-10-23 02:49:27,757 - INFO - Scraped His Excellency Dr Sultan Al Jaber is the UAE Minister of Industry and Advanced Technology, overseeing efforts to increase the country’s industrial development, diversification and competitiveness. Dr Al Jaber also holds prominent positions across the UAE’s energy and investment landscape, serving as Managing Director & Group CEO of ADNOC, Executive Chairman of XRG and Chairman of Masdar. Dr Al Jaber is driving the integration of energy and AI. He is Chairman of Presight, one of the region’s leading generative AI companies, and serves on Abu Dhabi’s AI and Advanced Technology Council and Advanced Technology Research Council. In addition, he serves as Chairman of Emirates Development Bank, Chairman of FAB Misr, Alterra, and RIQ, while also holding board positions on the Abu Dhabi Supreme Council for Financial and Economic Affairs, the Mubadala Investment Company, First Abu Dhabi Bank (FAB), Emirates Investment Authority (EIA), and Emirates Global Aluminium (EGA). Dr Al Jaber is also Chairman of IMI, a privately-owned, global media group with operations across 19 countries. Dr Al Jaber received a Bachelor of Science in chemical engineering from the University of Southern California in 1997. He received a Master of Science in Business Administration (MBA) from California State University, Los Angeles in 2001, and he was awarded the degree of Doctor of Philosophy in Economics by Coventry University in 2007. (1 total)
+2025-10-23 02:49:29,794 - INFO - Clicked 'show more' button
+2025-10-23 02:49:37,798 - INFO - Clicked 'show more' button
+2025-10-23 02:49:55,339 - INFO - Clicked 'show more' button
+2025-10-23 02:49:58,500 - INFO - Scraped Dr. Saleh A. Al-Kharabsheh Qualifications: · Ph.D., Renewable Energy, University of Florida, USA, 2003. (GPA 4.0/4.0) · M.Sc., Mechanical Engineering, University of Jordan, Jordan, 1994. · B.Sc., Mechanical Engineering, University of Burdwan, India, 1991. Experience: · 7/11/2019 : Minister of Environment · 18/6/2017-14/6/2018: Minister of Energy and Mineral Resources. · 10/2009-17/06/2017: Secretary General, Ministry of Planning and International Cooperation, Amman, Jordan. · 01/2006-10/2009: Director, Projects Department, Ministry of Planning and International Cooperation, Amman, Jordan. · 03/2008-06/2008 and 06/2009-09/2009: Acting Director, Policies and Studies Department, Ministry of Planning and International Cooperation, Amman, Jordan. · 03/2005-12/2005: Head, Energy and Agriculture Section, Ministry of Planning and International Cooperation, Amman, Jordan. · 08/2003-02/2005: Assistant Professor, Mechanical Engineering Department, Hashemite University, Zarqa, Jordan. · 05/2001-08/2001: Fellow, United Nations Framework Convention on Climate Change (UNFCCC) Secretariat, Bonn, Germany. · 08/2001-08/2003: Research assistant, Mechanical Engineering Department, University of Florida, Gainesville, USA. · 12/1995-07/2000: Engineer, Projects Department, Ministry of Planning, Amman, Jordan. · 03/1998-06/1998: Consultant, United Nations Development Program (UNDP)/General Corporation for Environmental Protection (GCEP), Amman, Jordan. · 09/1994-08/1995: Teaching Assistant, Higher Institute of Industrial Technology, Tripoli, Libya. · 06/1994-08/1994: Mechanical Engineer, Steel Fabrication Company, Zarka, Jordan. · 09/1991-01/1994: Teaching Assistant, Mechanical Engineering Department, University of Jordan, Amman, Jordan. (2 total)
+2025-10-23 02:55:51,633 - INFO - Starting Android app scraper
+2025-10-23 02:55:53,597 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 02:55:55,715 - INFO - Clicked 'show more' button
+2025-10-23 02:56:00,450 - INFO - Scraped HE Dr. Sultan  Ahmed Al Jaber (1 total)
+2025-10-23 02:56:02,569 - INFO - Clicked 'show more' button
+2025-10-23 02:56:07,402 - INFO - Scraped HE Suhail Mohamed Al Mazrouei (2 total)
+2025-10-23 02:56:10,785 - INFO - Scraped HH Abdulaziz Bin Salman   Bin Abdulaziz Al Saud (3 total)
+2025-10-23 02:56:12,699 - INFO - Clicked 'show more' button
+2025-10-23 02:56:17,873 - INFO - Scraped Secretary Doug Burgum (4 total)
+2025-10-23 02:56:20,411 - INFO - Scraped HE Saad bin Sherida  Al Kaabi (5 total)
+2025-10-23 02:56:24,110 - INFO - Scraped His Highness Shaikh Nasser bin Hamad Al Khalifa (6 total)
+2025-10-23 02:56:27,270 - INFO - Scraped HE Dr. Mohamed  bin Mubarak Bin Daina (7 total)
+2025-10-23 02:56:30,589 - INFO - Scraped HE Karim Badawi (8 total)
+2025-10-23 02:56:33,118 - INFO - Scraped HE Alparslan  Bayraktar (9 total)
+2025-10-23 02:56:35,612 - INFO - Clicked 'show more' button
+2025-10-23 02:56:42,412 - INFO - Scraped HE Saleh  Kharabsheh (10 total)
+2025-10-23 02:56:42,413 - INFO - Scrolling list (processed 10 items)
+2025-10-23 02:56:44,752 - INFO - Scroll successful
+2025-10-23 02:56:46,874 - INFO - Clicked 'show more' button
+2025-10-23 02:56:51,653 - INFO - Scraped Hon J Opiyo Wandayi (11 total)
+2025-10-23 02:56:53,706 - INFO - Clicked 'show more' button
+2025-10-23 02:57:00,097 - INFO - Scraped Hon Ruth  Nankabirwa Ssentamu (12 total)
+2025-10-23 02:57:06,302 - INFO - Scraping complete! Total people scraped: 12
+2025-10-23 03:03:37,238 - INFO - Starting Android app scraper
+2025-10-23 03:03:39,295 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:03:42,751 - INFO - Skipped HE Alparslan  Bayraktar (already in database)
+2025-10-23 03:03:44,729 - INFO - Clicked 'show more' button
+2025-10-23 03:03:49,330 - INFO - Skipped HE Saleh  Kharabsheh (already in database)
+2025-10-23 03:03:51,973 - INFO - Scraped James Danly (1 total)
+2025-10-23 03:03:55,883 - INFO - Scraped HE Haitham Al-Ghais (2 total)
+2025-10-23 03:03:57,894 - INFO - Clicked 'show more' button
+2025-10-23 03:04:02,336 - INFO - Scraped HE Bogdan-Gruia Ivan (3 total)
+2025-10-23 03:04:04,497 - INFO - Clicked 'show more' button
+2025-10-23 03:04:09,827 - INFO - Scraped HE Wolfgang  Hattmannsdorfer (4 total)
+2025-10-23 03:04:12,247 - INFO - Clicked 'show more' button
+2025-10-23 03:04:16,115 - INFO - Scraped HE George  Papanastasiou (5 total)
+2025-10-23 03:04:18,025 - INFO - Clicked 'show more' button
+2025-10-23 03:04:24,133 - INFO - Clicked 'show more' button
+2025-10-23 03:04:28,899 - INFO - Scraped HE Nathanael Liminski (7 total)
+2025-10-23 03:04:31,714 - INFO - Scraped HE Joseph Al-Saddi (8 total)
+2025-10-23 03:04:31,716 - INFO - Scrolling list (processed 10 items)
+2025-10-23 03:04:37,140 - INFO - Scroll successful, waiting for items to load
+2025-10-23 03:04:40,155 - INFO - Scraped Mr Claudio  Descalzi (9 total)
+2025-10-23 03:04:43,034 - INFO - Scraped Mr Arun Kumar  Singh (10 total)
+2025-10-23 03:04:59,626 - INFO - Scrolling list (processed 20 items)
+2025-10-23 03:05:05,343 - INFO - Scroll successful, waiting for items to load
+2025-10-23 03:05:26,040 - INFO - Scrolling list (processed 30 items)
+2025-10-23 03:05:31,190 - INFO - Scroll successful, waiting for items to load
+2025-10-23 03:05:51,803 - INFO - Scrolling list (processed 40 items)
+2025-10-23 03:05:56,892 - INFO - Scroll successful, waiting for items to load
+2025-10-23 03:06:17,410 - INFO - Scrolling list (processed 50 items)
+2025-10-23 03:06:22,608 - INFO - Scroll successful, waiting for items to load
+2025-10-23 03:09:25,830 - INFO - Starting Android app scraper
+2025-10-23 03:09:27,244 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:09:30,176 - INFO - Clicked 'show more' button
+2025-10-23 03:09:35,246 - INFO - Scraped Mr Steve  Kelly (1 total)
+2025-10-23 03:09:38,133 - INFO - Scraped Mr John  Gilley (2 total)
+2025-10-23 03:09:39,856 - INFO - Clicked 'show more' button
+2025-10-23 03:09:43,734 - INFO - Scraped Prof Anima  Anandkumar (3 total)
+2025-10-23 03:10:11,145 - INFO - Starting Android app scraper
+2025-10-23 03:10:13,260 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:10:15,291 - INFO - Clicked 'show more' button
+2025-10-23 03:10:20,537 - INFO - Scraped Mr Roshan Joseph (1 total)
+2025-10-23 03:10:22,839 - INFO - Scraped Mr Makky Al Hassan (2 total)
+2025-10-23 03:10:24,790 - INFO - Clicked 'show more' button
+2025-10-23 03:10:29,071 - INFO - Scraped Dr Antonio Campos (3 total)
+2025-10-23 03:10:32,232 - INFO - Scraped Mansoor	Ali Mohamed Al Hammadi Ali Mohamed Al Hammadi (4 total)
+2025-10-23 03:10:34,394 - INFO - Scraped Minas Valliyatt Poyil (5 total)
+2025-10-23 03:10:36,799 - INFO - Scraped Mr Keith Morrison (6 total)
+2025-10-23 03:10:38,718 - INFO - Clicked 'show more' button
+2025-10-23 03:10:43,880 - INFO - Scraped Mr Harish Govindan (7 total)
+2025-10-23 03:10:45,810 - INFO - Clicked 'show more' button
+2025-10-23 03:10:50,675 - INFO - Scraped Mr Sven  Winter (8 total)
+2025-10-23 03:10:52,491 - INFO - Clicked 'show more' button
+2025-10-23 03:11:07,616 - INFO - Starting Android app scraper
+2025-10-23 03:11:09,072 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:11:11,014 - INFO - Clicked 'show more' button
+2025-10-23 03:11:14,707 - INFO - Skipped HE Dr. Sultan  Ahmed Al Jaber (already in database)
+2025-10-23 03:11:16,644 - INFO - Clicked 'show more' button
+2025-10-23 03:11:20,544 - INFO - Skipped HE Suhail Mohamed Al Mazrouei (already in database)
+2025-10-23 03:11:23,757 - INFO - Skipped HH Abdulaziz Bin Salman   Bin Abdulaziz Al Saud (already in database)
+2025-10-23 03:11:25,528 - INFO - Clicked 'show more' button
+2025-10-23 03:11:29,615 - INFO - Skipped Secretary Doug Burgum (already in database)
+2025-10-23 03:11:32,739 - INFO - Skipped HE Saad bin Sherida  Al Kaabi (already in database)
+2025-10-23 03:11:35,660 - INFO - Skipped His Highness Shaikh Nasser bin Hamad Al Khalifa (already in database)
+2025-10-23 03:11:38,523 - INFO - Skipped HE Dr. Mohamed  bin Mubarak Bin Daina (already in database)
+2025-10-23 03:11:41,314 - INFO - Skipped HE Karim Badawi (already in database)
+2025-10-23 03:11:44,401 - INFO - Skipped HE Alparslan  Bayraktar (already in database)
+2025-10-23 03:11:46,242 - INFO - Clicked 'show more' button
+2025-10-23 03:11:49,972 - INFO - Skipped HE Saleh  Kharabsheh (already in database)
+2025-10-23 03:11:52,496 - INFO - Skipped James Danly (already in database)
+2025-10-23 03:14:01,155 - INFO - Starting Android app scraper
+2025-10-23 03:14:03,177 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:14:05,142 - INFO - Clicked 'show more' button
+2025-10-23 03:14:09,068 - INFO - Skipped HE Dr. Sultan  Ahmed Al Jaber (already in database)
+2025-10-23 03:14:10,964 - INFO - Clicked 'show more' button
+2025-10-23 03:14:15,795 - INFO - Skipped HE Suhail Mohamed Al Mazrouei (already in database)
+2025-10-23 03:14:18,746 - INFO - Skipped HH Abdulaziz Bin Salman   Bin Abdulaziz Al Saud (already in database)
+2025-10-23 03:14:20,426 - INFO - Clicked 'show more' button
+2025-10-23 03:14:24,472 - INFO - Skipped Secretary Doug Burgum (already in database)
+2025-10-23 03:14:27,512 - INFO - Skipped HE Saad bin Sherida  Al Kaabi (already in database)
+2025-10-23 03:14:29,772 - INFO - Skipped His Highness Shaikh Nasser bin Hamad Al Khalifa (already in database)
+2025-10-23 03:14:32,198 - INFO - Skipped HE Dr. Mohamed  bin Mubarak Bin Daina (already in database)
+2025-10-23 03:14:35,171 - INFO - Skipped HE Karim Badawi (already in database)
+2025-10-23 03:14:37,974 - INFO - Skipped HE Alparslan  Bayraktar (already in database)
+2025-10-23 03:14:39,697 - INFO - Clicked 'show more' button
+2025-10-23 03:14:44,348 - INFO - Skipped HE Saleh  Kharabsheh (already in database)
+2025-10-23 03:14:47,107 - INFO - Skipped James Danly (already in database)
+2025-10-23 03:14:47,108 - INFO - Scrolling after 11 attempts
+2025-10-23 03:14:48,706 - INFO - Scroll complete
+2025-10-23 03:15:11,493 - INFO - Scrolling after 22 attempts
+2025-10-23 03:15:13,324 - INFO - Scroll complete
+2025-10-23 03:15:36,081 - INFO - Scrolling after 33 attempts
+2025-10-23 03:15:37,915 - INFO - Scroll complete
+2025-10-23 03:16:00,680 - INFO - Scrolling after 44 attempts
+2025-10-23 03:16:02,593 - INFO - Scroll complete
+2025-10-23 03:16:25,286 - INFO - Scrolling after 55 attempts
+2025-10-23 03:16:27,024 - INFO - Scroll complete
+2025-10-23 03:16:49,592 - INFO - Scrolling after 66 attempts
+2025-10-23 03:16:51,370 - INFO - Scroll complete
+2025-10-23 03:17:15,063 - INFO - Scrolling after 77 attempts
+2025-10-23 03:17:16,326 - INFO - Scroll complete
+2025-10-23 03:17:38,763 - INFO - Scrolling after 88 attempts
+2025-10-23 03:17:40,025 - INFO - Scroll complete
+2025-10-23 03:18:02,487 - INFO - Scrolling after 99 attempts
+2025-10-23 03:18:03,742 - INFO - Scroll complete
+2025-10-23 03:18:26,041 - INFO - Scrolling after 110 attempts
+2025-10-23 03:18:26,641 - WARNING - List container not found
+2025-10-23 03:18:55,388 - INFO - Scrolling after 121 attempts
+2025-10-23 03:18:56,010 - WARNING - List container not found
+2025-10-23 03:19:23,670 - INFO - Scrolling after 132 attempts
+2025-10-23 03:19:24,958 - INFO - Scroll complete
+2025-10-23 03:19:49,515 - INFO - Scrolling after 143 attempts
+2025-10-23 03:19:51,353 - INFO - Scroll complete
+2025-10-23 03:20:13,262 - INFO - Scrolling after 154 attempts
+2025-10-23 03:20:15,212 - INFO - Scroll complete
+2025-10-23 03:20:37,820 - INFO - Scrolling after 165 attempts
+2025-10-23 03:20:40,132 - INFO - Scroll complete
+2025-10-23 03:21:02,002 - INFO - Scrolling after 176 attempts
+2025-10-23 03:21:04,999 - INFO - Scroll complete
+2025-10-23 03:21:27,712 - INFO - Scrolling after 187 attempts
+2025-10-23 03:21:29,448 - INFO - Scroll complete
+2025-10-23 03:21:52,214 - INFO - Scrolling after 198 attempts
+2025-10-23 03:21:54,191 - INFO - Scroll complete
+2025-10-23 03:22:15,980 - INFO - Scrolling after 209 attempts
+2025-10-23 03:22:18,140 - INFO - Scroll complete
+2025-10-23 03:22:40,940 - INFO - Scrolling after 220 attempts
+2025-10-23 03:22:43,176 - INFO - Scroll complete
+2025-10-23 03:23:06,056 - INFO - Scrolling after 231 attempts
+2025-10-23 03:23:07,714 - INFO - Scroll complete
+2025-10-23 03:23:29,817 - INFO - Scrolling after 242 attempts
+2025-10-23 03:23:31,642 - INFO - Scroll complete
+2025-10-23 03:23:54,297 - INFO - Scrolling after 253 attempts
+2025-10-23 03:24:00,024 - INFO - Starting Android app scraper
+2025-10-23 03:24:02,998 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:24:05,390 - INFO - Clicked 'show more' button
+2025-10-23 03:24:10,058 - INFO - Skipped HE Suhail Mohamed Al Mazrouei (already in database)
+2025-10-23 03:24:12,619 - INFO - Skipped HH Abdulaziz Bin Salman   Bin Abdulaziz Al Saud (already in database)
+2025-10-23 03:24:14,901 - INFO - Clicked 'show more' button
+2025-10-23 03:24:20,328 - INFO - Skipped Secretary Doug Burgum (already in database)
+2025-10-23 03:24:24,444 - INFO - Skipped HE Saad bin Sherida  Al Kaabi (already in database)
+2025-10-23 03:24:26,891 - INFO - Skipped His Highness Shaikh Nasser bin Hamad Al Khalifa (already in database)
+2025-10-23 03:24:30,103 - INFO - Skipped HE Dr. Mohamed  bin Mubarak Bin Daina (already in database)
+2025-10-23 03:24:32,418 - INFO - Skipped HE Alparslan  Bayraktar (already in database)
+2025-10-23 03:24:35,077 - INFO - Clicked 'show more' button
+2025-10-23 03:24:40,577 - INFO - Skipped HE Saleh  Kharabsheh (already in database)
+2025-10-23 03:24:43,443 - INFO - Skipped James Danly (already in database)
+2025-10-23 03:24:47,598 - INFO - Scrolling after 11 attempts
+2025-10-23 03:24:49,562 - INFO - Scroll complete
+2025-10-23 03:24:51,442 - INFO - Clicked 'show more' button
+2025-10-23 03:24:56,148 - INFO - Skipped Hon Ruth  Nankabirwa Ssentamu (already in database)
+2025-10-23 03:25:16,908 - INFO - Scrolling after 22 attempts
+2025-10-23 03:25:19,314 - INFO - Scroll complete
+2025-10-23 03:25:41,891 - INFO - Scrolling after 33 attempts
+2025-10-23 03:25:44,194 - INFO - Scroll complete
+2025-10-23 03:26:06,804 - INFO - Scrolling after 44 attempts
+2025-10-23 03:26:09,014 - INFO - Scroll complete
+2025-10-23 03:26:31,551 - INFO - Scrolling after 55 attempts
+2025-10-23 03:26:33,812 - INFO - Scroll complete
+2025-10-23 03:26:56,371 - INFO - Scrolling after 66 attempts
+2025-10-23 03:26:58,566 - INFO - Scroll complete
+2025-10-23 03:27:21,179 - INFO - Scrolling after 77 attempts
+2025-10-23 03:27:23,411 - INFO - Scroll complete
+2025-10-23 03:27:45,956 - INFO - Starting Android app scraper
+2025-10-23 03:27:47,946 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:27:50,380 - INFO - Clicked 'show more' button
+2025-10-23 03:27:54,730 - INFO - Scraped HE Suhail Mohamed Al Mazrouei (1 total)
+2025-10-23 03:28:19,732 - INFO - Scraped HH Abdulaziz Bin Salman   Bin Abdulaziz Al Saud (2 total)
+2025-10-23 03:28:22,712 - INFO - Clicked 'show more' button
+2025-10-23 03:28:29,750 - INFO - Scraped Secretary Doug Burgum (3 total)
+2025-10-23 03:28:34,790 - INFO - Scraped HE Saad bin Sherida  Al Kaabi (4 total)
+2025-10-23 03:28:38,749 - INFO - Scraped His Highness Shaikh Nasser bin Hamad Al Khalifa (5 total)
+2025-10-23 03:28:42,590 - INFO - Scraped HE Dr. Mohamed  bin Mubarak Bin Daina (6 total)
+2025-10-23 03:28:47,034 - INFO - Scraped HE Karim Badawi (7 total)
+2025-10-23 03:28:50,799 - INFO - Clicked 'show more' button
+2025-10-23 03:28:59,542 - INFO - Scraped HE Saleh  Kharabsheh (8 total)
+2025-10-23 03:29:04,494 - INFO - Scraped James Danly (9 total)
+2025-10-23 03:29:08,646 - INFO - Scrolling after 11 attempts
+2025-10-23 03:29:12,204 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:29:15,029 - INFO - Clicked 'show more' button
+2025-10-23 03:29:27,433 - INFO - Skipped HE Saleh  Kharabsheh (already in database)
+2025-10-23 03:29:33,045 - INFO - Skipped James Danly (already in database)
+2025-10-23 03:29:36,998 - INFO - Clicked 'show more' button
+2025-10-23 03:29:45,863 - INFO - Scraped HE Bogdan-Gruia Ivan (10 total)
+2025-10-23 03:29:48,495 - INFO - Clicked 'show more' button
+2025-10-23 03:29:55,845 - INFO - Scraped HE George  Papanastasiou (11 total)
+2025-10-23 03:29:59,014 - INFO - Clicked 'show more' button
+2025-10-23 03:30:09,629 - INFO - Clicked 'show more' button
+2025-10-23 03:30:17,848 - INFO - Scraped HE Nathanael Liminski (13 total)
+2025-10-23 03:30:21,727 - INFO - Scraped HE Joseph Al-Saddi (14 total)
+2025-10-23 03:30:24,493 - INFO - Clicked 'show more' button
+2025-10-23 03:30:32,311 - INFO - Scraped Hon J Opiyo Wandayi (15 total)
+2025-10-23 03:30:35,117 - INFO - Clicked 'show more' button
+2025-10-23 03:30:43,370 - INFO - Scraped Hon Ruth  Nankabirwa Ssentamu (16 total)
+2025-10-23 03:30:47,500 - INFO - Scrolling after 11 attempts
+2025-10-23 03:30:50,673 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:30:54,729 - INFO - Skipped HE Joseph Al-Saddi (already in database)
+2025-10-23 03:30:57,399 - INFO - Clicked 'show more' button
+2025-10-23 03:31:05,364 - INFO - Skipped Hon J Opiyo Wandayi (already in database)
+2025-10-23 03:31:07,915 - INFO - Clicked 'show more' button
+2025-10-23 03:31:16,021 - INFO - Skipped Hon Ruth  Nankabirwa Ssentamu (already in database)
+2025-10-23 03:31:20,500 - INFO - Scraped Sen. Dr. Heineken Lokpobiri Lokpobiri (17 total)
+2025-10-23 03:31:23,515 - INFO - Clicked 'show more' button
+2025-10-23 03:31:31,313 - INFO - Scraped HE Antonio  Oburu Ondo (18 total)
+2025-10-23 03:31:34,050 - INFO - Clicked 'show more' button
+2025-10-23 03:31:41,417 - INFO - Scraped Hon Julius D. Mattai (19 total)
+2025-10-23 03:31:44,892 - INFO - Clicked 'show more' button
+2025-10-23 03:31:52,714 - INFO - Scraped HE Nani Juwara (20 total)
+2025-10-23 03:31:55,514 - INFO - Clicked 'show more' button
+2025-10-23 03:32:03,635 - INFO - Scraped HE Yerlan  Akkenzhenov (21 total)
+2025-10-23 03:32:07,194 - INFO - Clicked 'show more' button
+2025-10-23 03:32:14,400 - INFO - Scraped HE Jurabek  Mirzamahmudov (22 total)
+2025-10-23 03:32:18,116 - INFO - Scrolling after 11 attempts
+2025-10-23 03:32:21,241 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:32:24,112 - INFO - Clicked 'show more' button
+2025-10-23 03:32:32,403 - INFO - Skipped HE Yerlan  Akkenzhenov (already in database)
+2025-10-23 03:32:34,893 - INFO - Clicked 'show more' button
+2025-10-23 03:32:42,851 - INFO - Skipped HE Jurabek  Mirzamahmudov (already in database)
+2025-10-23 03:32:45,968 - INFO - Scraped HE Taalaibek Ibrayev (23 total)
+2025-10-23 03:32:49,420 - INFO - Clicked 'show more' button
+2025-10-23 03:32:56,504 - INFO - Scraped HE Arzybek Kozhoshev (24 total)
+2025-10-23 03:33:01,313 - INFO - Scraped HE Shohrukh Gulamov (25 total)
+2025-10-23 03:33:04,247 - INFO - Clicked 'show more' button
+2025-10-23 03:33:12,559 - INFO - Scraped HE Jassim Alshirawi (26 total)
+2025-10-23 03:33:15,830 - INFO - Scraped HE Mohamed Hamel (27 total)
+2025-10-23 03:33:19,214 - INFO - Clicked 'show more' button
+2025-10-23 03:33:27,609 - INFO - Scraped Premier  Danielle Smith (28 total)
+2025-10-23 03:33:31,894 - INFO - Scraped Ms Olubukola  Arowolo Verheijen (29 total)
+2025-10-23 03:33:36,024 - INFO - Scrolling after 11 attempts
+2025-10-23 03:33:39,356 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:33:42,285 - INFO - Clicked 'show more' button
+2025-10-23 03:33:50,840 - INFO - Skipped Premier  Danielle Smith (already in database)
+2025-10-23 03:33:54,814 - INFO - Skipped Ms Olubukola  Arowolo Verheijen (already in database)
+2025-10-23 03:33:57,734 - INFO - Clicked 'show more' button
+2025-10-23 03:34:05,087 - INFO - Scraped Mr Murray  Auchincloss (30 total)
+2025-10-23 03:34:09,512 - INFO - Scraped Mr Claudio  Descalzi (31 total)
+2025-10-23 03:34:13,257 - INFO - Scraped Mr Arun Kumar  Singh (32 total)
+2025-10-23 03:34:17,669 - INFO - Scraped Tengku Muhammad Taufik (33 total)
+2025-10-23 03:34:21,711 - INFO - Scraped Mr Alfred  Stern (34 total)
+2025-10-23 03:34:24,958 - INFO - Scraped Mr Takayuki  Ueda (35 total)
+2025-10-23 03:34:29,189 - INFO - Scraped Mr Shri Sandeep Kumar  Gupta (36 total)
+2025-10-23 03:34:33,546 - INFO - Scraped Mr Girish K.  Saligram (37 total)
+2025-10-23 03:34:36,827 - INFO - Clicked 'show more' button
+2025-10-23 03:34:44,761 - INFO - Scraped Mr Montri  Rawanchaikul (38 total)
+2025-10-23 03:34:44,762 - INFO - Scrolling after 11 attempts
+2025-10-23 03:34:48,192 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:34:52,058 - INFO - Skipped Mr Takayuki  Ueda (already in database)
+2025-10-23 03:34:55,119 - INFO - Skipped Mr Shri Sandeep Kumar  Gupta (already in database)
+2025-10-23 03:34:59,018 - INFO - Skipped Mr Girish K.  Saligram (already in database)
+2025-10-23 03:35:02,414 - INFO - Clicked 'show more' button
+2025-10-23 03:35:10,689 - INFO - Skipped Mr Montri  Rawanchaikul (already in database)
+2025-10-23 03:35:13,748 - INFO - Clicked 'show more' button
+2025-10-23 03:35:21,022 - INFO - Scraped Mr Horacio  Marin (39 total)
+2025-10-23 03:35:24,721 - INFO - Scraped Mr Masoud Suleiman (40 total)
+2025-10-23 03:35:28,441 - INFO - Clicked 'show more' button
+2025-10-23 03:35:35,675 - INFO - Scraped Mr Lorenzo Simonelli (41 total)
+2025-10-23 03:35:40,266 - INFO - Scraped Mr Olivier Le Peuch (42 total)
+2025-10-23 03:35:43,442 - INFO - Scraped Mr Marco  Dunand (43 total)
+2025-10-23 03:35:48,325 - INFO - Scraped Mr Musabbeh  Al Kaabi (44 total)
+2025-10-23 03:35:52,956 - INFO - Scraped Mr Stefan  Doboczky (45 total)
+2025-10-23 03:35:52,956 - INFO - Scrolling after 11 attempts
+2025-10-23 03:35:56,314 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:36:00,176 - INFO - Skipped Mr Olivier Le Peuch (already in database)
+2025-10-23 03:36:04,361 - INFO - Skipped Mr Marco  Dunand (already in database)
+2025-10-23 03:36:08,422 - INFO - Skipped Mr Musabbeh  Al Kaabi (already in database)
+2025-10-23 03:36:11,469 - INFO - Skipped Mr Stefan  Doboczky (already in database)
+2025-10-23 03:36:15,100 - INFO - Clicked 'show more' button
+2025-10-23 03:36:22,947 - INFO - Scraped Ms Tayba  Al Hashemi (46 total)
+2025-10-23 03:36:26,197 - INFO - Scraped Mr Miguel Ángel López  Borrego (47 total)
+2025-10-23 03:36:29,748 - INFO - Clicked 'show more' button
+2025-10-23 03:36:38,005 - INFO - Scraped Mr Ahmed El-Hoshy (48 total)
+2025-10-23 03:36:40,547 - INFO - Clicked 'show more' button
+2025-10-23 03:36:48,603 - INFO - Scraped Lord John Browne (49 total)
+2025-10-23 03:36:51,155 - INFO - Clicked 'show more' button
+2025-10-23 03:36:59,000 - INFO - Scraped Mr Shri Akshay Kumar  Singh (50 total)
+2025-10-23 03:37:02,879 - INFO - Scraped Dr Yoshinori  Kanehana (51 total)
+2025-10-23 03:37:08,195 - INFO - Scraped Ms Dr. Pratima Rangarajan  (52 total)
+2025-10-23 03:37:08,195 - INFO - Scrolling after 11 attempts
+2025-10-23 03:37:11,627 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:37:14,548 - INFO - Clicked 'show more' button
+2025-10-23 03:37:22,738 - INFO - Skipped Mr Shri Akshay Kumar  Singh (already in database)
+2025-10-23 03:37:26,103 - INFO - Skipped Dr Yoshinori  Kanehana (already in database)
+2025-10-23 03:37:29,550 - INFO - Skipped Ms Dr. Pratima Rangarajan  (already in database)
+2025-10-23 03:37:34,215 - INFO - Scraped Mr Roeland  Baan (53 total)
+2025-10-23 03:37:39,112 - INFO - Scraped Ms Ana Amicarella (54 total)
+2025-10-23 03:37:43,107 - INFO - Scraped Mr Bjørn Otto Sverdrup (55 total)
+2025-10-23 03:37:47,395 - INFO - Scraped Mr Jay  Yu (56 total)
+2025-10-23 03:37:51,409 - INFO - Scraped Mr Sultan Albigishi  (57 total)
+2025-10-23 03:37:54,080 - INFO - Clicked 'show more' button
+2025-10-23 03:38:02,010 - INFO - Scraped Ms Fatema  Al Nuaimi  (58 total)
+2025-10-23 03:38:04,929 - INFO - Clicked 'show more' button
+2025-10-23 03:38:12,013 - INFO - Scraped Mr Mark  Thomas (59 total)
+2025-10-23 03:38:15,400 - INFO - Clicked 'show more' button
+2025-10-23 03:38:23,574 - INFO - Scraped Mr Timothy  Bawtree (60 total)
+2025-10-23 03:38:23,574 - INFO - Scrolling after 11 attempts
+2025-10-23 03:38:26,950 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:38:29,654 - INFO - Clicked 'show more' button
+2025-10-23 03:38:37,879 - INFO - Skipped Ms Fatema  Al Nuaimi  (already in database)
+2025-10-23 03:38:40,378 - INFO - Clicked 'show more' button
+2025-10-23 03:38:48,407 - INFO - Skipped Mr Mark  Thomas (already in database)
+2025-10-23 03:38:51,753 - INFO - Skipped Mr Timothy  Bawtree (already in database)
+2025-10-23 03:38:54,730 - INFO - Clicked 'show more' button
+2025-10-23 03:39:03,009 - INFO - Scraped Mr Ali Alalkeem  Al Zaabi (61 total)
+2025-10-23 03:39:05,691 - INFO - Clicked 'show more' button
+2025-10-23 03:39:13,333 - INFO - Scraped Mr Askhat  Khassenov (62 total)
+2025-10-23 03:39:17,347 - INFO - Scraped Toby Z. Rice (63 total)
+2025-10-23 03:39:21,350 - INFO - Scraped Dr Jennifer  Holmgren (64 total)
+2025-10-23 03:39:24,261 - INFO - Clicked 'show more' button
+2025-10-23 03:43:07,510 - INFO - Scraped Mr Alex Tancock (65 total)
+2025-10-23 03:43:21,654 - INFO - Scraped Mr Neil  McMahon (66 total)
+2025-10-23 03:43:28,238 - ERROR - Failed to scrape person: (-32001, 'androidx.test.uiautomator.UiObjectNotFoundException', ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.swapcard.apps.android.adipec:id/header_name'},))
+2025-10-23 03:43:32,952 - INFO - Scrolling after 11 attempts
+2025-10-23 03:43:33,552 - WARNING - List container not found
+2025-10-23 03:49:43,184 - INFO - Starting Android app scraper
+2025-10-23 03:49:50,524 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 03:49:53,305 - INFO - Clicked 'show more' button
+2025-10-23 03:50:01,164 - INFO - Skipped Mr Alex Tancock (already in database)
+2025-10-23 03:50:05,228 - INFO - Skipped Mr Neil  McMahon (already in database)
+2025-10-23 03:50:08,955 - INFO - Clicked 'show more' button
+2025-10-23 03:50:19,442 - INFO - Scraped Hon Dan Brouillette (1 total)
+2025-10-23 03:50:23,645 - INFO - Scraped Dr Najwa Aaraj (2 total)
+2025-10-23 03:50:29,083 - INFO - Scraped Dr Vania  De Stefani (3 total)
+2025-10-23 03:50:34,279 - INFO - Scraped Mr Peter Van  Driel (4 total)
+2025-10-23 03:50:38,569 - INFO - Scraped Mr Mashal Al Kindi (5 total)
+2025-10-23 03:50:42,190 - INFO - Clicked 'show more' button
+2025-10-23 03:50:52,442 - INFO - Scraped Mr Darryl  Willis (6 total)
+2025-10-23 03:50:55,968 - INFO - Clicked 'show more' button
+2025-10-23 03:51:06,691 - INFO - Scraped Mr Hazeem Sultan  Al Suwaidi (7 total)
+2025-10-23 03:51:11,671 - INFO - Scraped Mr Dennis Jol (8 total)
+2025-10-23 03:51:16,098 - INFO - Scraped Mr Andrew  Tait (9 total)
+2025-10-23 03:51:16,099 - INFO - Scrolling after 11 attempts
+2025-10-23 03:51:20,072 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:51:23,138 - INFO - Skipped Mr Dennis Jol (already in database)
+2025-10-23 03:51:27,460 - INFO - Clicked 'show more' button
+2025-10-23 03:51:40,511 - INFO - Skipped Mr Andrew  Tait (already in database)
+2025-10-23 03:51:45,288 - INFO - Clicked 'show more' button
+2025-10-23 03:51:54,280 - INFO - Scraped Mr Chris  Ashton (10 total)
+2025-10-23 03:52:02,004 - INFO - Scraped Ms Charlotte  Wolff-Bye (11 total)
+2025-10-23 03:52:07,093 - INFO - Scraped Mr Christopher  James (12 total)
+2025-10-23 03:52:09,816 - INFO - Clicked 'show more' button
+2025-10-23 03:52:18,897 - INFO - Scraped Mr Matthew  Schatzman (13 total)
+2025-10-23 03:52:24,608 - INFO - Clicked 'show more' button
+2025-10-23 03:52:34,198 - INFO - Scraped Dr Ranjit  Rath (14 total)
+2025-10-23 03:52:37,820 - INFO - Clicked 'show more' button
+2025-10-23 03:52:47,323 - INFO - Scraped Ms Nadja  Håkansson (15 total)
+2025-10-23 03:52:50,449 - INFO - Clicked 'show more' button
+2025-10-23 03:52:59,473 - INFO - Scraped Dr Guy  Diedrich  (16 total)
+2025-10-23 03:53:04,206 - INFO - Scraped Mr Mohd Jukris Abdul Wahab (17 total)
+2025-10-23 03:53:08,810 - INFO - Scraped Ms Anna  Mascolo (18 total)
+2025-10-23 03:53:08,810 - INFO - Scrolling after 11 attempts
+2025-10-23 03:53:13,763 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:53:18,273 - INFO - Skipped Mr Mohd Jukris Abdul Wahab (already in database)
+2025-10-23 03:53:21,471 - INFO - Skipped Ms Anna  Mascolo (already in database)
+2025-10-23 03:53:26,315 - INFO - Scraped Mr Julian  Mylchreest (19 total)
+2025-10-23 03:53:31,174 - INFO - Scraped Mr Alessandro  Bernini (20 total)
+2025-10-23 03:53:34,835 - INFO - Clicked 'show more' button
+2025-10-23 03:53:42,987 - INFO - Scraped Mr Arnaud  Pieton (21 total)
+2025-10-23 03:53:46,707 - INFO - Scraped Dr Rainer  Seele (22 total)
+2025-10-23 03:53:50,161 - INFO - Scraped Mr Michel Lutz (23 total)
+2025-10-23 03:53:54,440 - INFO - Scraped Mr Jeff  Currie (24 total)
+2025-10-23 03:53:56,987 - INFO - Clicked 'show more' button
+2025-10-23 03:54:05,521 - INFO - Scraped Mr Thomas  Maurisse (25 total)
+2025-10-23 03:54:09,055 - INFO - Clicked 'show more' button
+2025-10-23 03:54:18,010 - INFO - Scraped Mr Steve  Kelly (26 total)
+2025-10-23 03:54:22,642 - INFO - Scraped Mr John  Gilley (27 total)
+2025-10-23 03:54:22,642 - INFO - Scrolling after 11 attempts
+2025-10-23 03:54:26,419 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:54:29,949 - INFO - Clicked 'show more' button
+2025-10-23 03:54:36,758 - INFO - Skipped Mr Steve  Kelly (already in database)
+2025-10-23 03:54:41,856 - INFO - Skipped Mr John  Gilley (already in database)
+2025-10-23 03:54:44,572 - INFO - Clicked 'show more' button
+2025-10-23 03:54:51,366 - INFO - Scraped Prof Anima  Anandkumar (28 total)
+2025-10-23 03:54:55,682 - INFO - Scraped Mr Rakesh Jaggi (29 total)
+2025-10-23 03:54:58,122 - INFO - Clicked 'show more' button
+2025-10-23 03:55:09,901 - INFO - Scraped Ms Naïla  Giovanni (31 total)
+2025-10-23 03:55:14,382 - INFO - Scraped Mr Massimo  Falcioni (32 total)
+2025-10-23 03:55:17,248 - INFO - Scraped Mr Rajarshi  Gupta (33 total)
+2025-10-23 03:55:20,973 - INFO - Scraped Mr Reinhard Florey (34 total)
+2025-10-23 03:55:25,708 - INFO - Scraped Mr Youssef  Salem (35 total)
+2025-10-23 03:55:28,332 - INFO - Clicked 'show more' button
+2025-10-23 03:55:35,450 - INFO - Scraped Mr Nobuo  Tanaka (36 total)
+2025-10-23 03:55:35,451 - INFO - Scrolling after 11 attempts
+2025-10-23 03:55:38,966 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:55:42,453 - INFO - Skipped Mr Youssef  Salem (already in database)
+2025-10-23 03:55:44,983 - INFO - Clicked 'show more' button
+2025-10-23 03:55:52,251 - INFO - Skipped Mr Nobuo  Tanaka (already in database)
+2025-10-23 03:55:57,451 - INFO - Scraped Mr Patrick  Bangert (37 total)
+2025-10-23 03:56:00,255 - INFO - Clicked 'show more' button
+2025-10-23 03:56:07,626 - INFO - Scraped Mr Berislav  Gašo (38 total)
+2025-10-23 03:56:12,824 - INFO - Scraped Mr Olakunle  A. Osobu (39 total)
+2025-10-23 03:56:15,776 - INFO - Scraped Mr Nasser  Al Muhairi (40 total)
+2025-10-23 03:56:20,938 - INFO - Scraped Mr Philippe  Mathieu (41 total)
+2025-10-23 03:56:24,525 - INFO - Scraped Mr Bruce  Chalton (42 total)
+2025-10-23 03:56:30,761 - INFO - Scraped Mr Bernhard  Koudelka (43 total)
+2025-10-23 03:56:34,867 - INFO - Scraped Mr Jun  Arima (44 total)
+2025-10-23 03:56:38,613 - INFO - Scraped Mr Horst H.  Mahmoudi (45 total)
+2025-10-23 03:56:38,613 - INFO - Scrolling after 11 attempts
+2025-10-23 03:56:42,478 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:56:45,557 - INFO - Clicked 'show more' button
+2025-10-23 03:56:54,560 - INFO - Skipped Mr Jun  Arima (already in database)
+2025-10-23 03:56:58,231 - INFO - Skipped Mr Horst H.  Mahmoudi (already in database)
+2025-10-23 03:57:01,677 - INFO - Clicked 'show more' button
+2025-10-23 03:57:08,421 - INFO - Scraped Ms Maha Attia (46 total)
+2025-10-23 03:57:12,925 - INFO - Scraped Ms Audrey  Ma (47 total)
+2025-10-23 03:57:16,231 - INFO - Scraped Mr Nicolas  Poirot (48 total)
+2025-10-23 03:57:20,859 - INFO - Scraped Mr Benjamin  Lechuga (49 total)
+2025-10-23 03:57:24,012 - INFO - Scraped Mr Vaibhav Jain (50 total)
+2025-10-23 03:57:27,605 - INFO - Scraped Mr Jens  Madrian (51 total)
+2025-10-23 03:57:32,131 - INFO - Scraped Mr Bo  Cerup-Simonsen (52 total)
+2025-10-23 03:57:36,034 - INFO - Scraped Mr Graham  Henley (53 total)
+2025-10-23 03:57:39,931 - INFO - Scraped Mr Brian  Sullivan (54 total)
+2025-10-23 03:57:39,931 - INFO - Scrolling after 11 attempts
+2025-10-23 03:57:43,203 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:57:46,984 - INFO - Skipped Mr Graham  Henley (already in database)
+2025-10-23 03:57:49,742 - INFO - Skipped Mr Brian  Sullivan (already in database)
+2025-10-23 03:57:53,765 - INFO - Scraped Mr Charlie  Tan (55 total)
+2025-10-23 03:57:56,617 - INFO - Scraped Mr Aniruddha  Sharma (56 total)
+2025-10-23 03:58:00,971 - INFO - Scraped Mr Andre  Raimundo (57 total)
+2025-10-23 03:58:03,863 - INFO - Scraped Capt Ammar Al  Shaiba (58 total)
+2025-10-23 03:58:07,723 - INFO - Scraped Dr Rado Antolovic (59 total)
+2025-10-23 03:58:12,440 - INFO - Scraped Dr Kris Vedat (60 total)
+2025-10-23 03:58:16,475 - INFO - Scraped Mr Jack  Hidary (61 total)
+2025-10-23 03:58:19,979 - INFO - Scraped Mr Koji Yamamoto  (62 total)
+2025-10-23 03:58:25,219 - INFO - Scraped Ms Elena  Scaltritti (63 total)
+2025-10-23 03:58:25,219 - INFO - Scrolling after 11 attempts
+2025-10-23 03:58:29,044 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:58:32,300 - INFO - Skipped Mr Jack  Hidary (already in database)
+2025-10-23 03:58:37,402 - INFO - Skipped Mr Koji Yamamoto  (already in database)
+2025-10-23 03:58:40,956 - INFO - Skipped Ms Elena  Scaltritti (already in database)
+2025-10-23 03:58:43,792 - INFO - Scraped Mr Mazin Khan (64 total)
+2025-10-23 03:58:48,170 - INFO - Scraped Ms Irina  Gorbounova (65 total)
+2025-10-23 03:58:51,765 - INFO - Scraped Ms Lavinia  Bauerochse (66 total)
+2025-10-23 03:58:55,318 - INFO - Scraped Mr René  Matthies (67 total)
+2025-10-23 03:58:58,996 - INFO - Scraped Mr Saad Rahim (68 total)
+2025-10-23 03:59:02,781 - INFO - Scraped Mr Varun  Gujral (69 total)
+2025-10-23 03:59:06,624 - INFO - Scraped Dr Christoph  Gebald (70 total)
+2025-10-23 03:59:10,515 - INFO - Scraped Mr Hiroshi  Matsuda (71 total)
+2025-10-23 03:59:10,515 - INFO - Scrolling after 11 attempts
+2025-10-23 03:59:13,505 - INFO - Scroll complete - reset to index 0
+2025-10-23 03:59:16,997 - INFO - Skipped Mr Hiroshi  Matsuda (already in database)
+2025-10-23 03:59:19,404 - INFO - Clicked 'show more' button
+2025-10-23 03:59:26,398 - INFO - Scraped Ms Anne-Laure  de Chammard (72 total)
+2025-10-23 03:59:30,077 - INFO - Scraped Dr Sara  Vakhshouri (73 total)
+2025-10-23 03:59:33,572 - INFO - Scraped Mr Tarek  Sultan (74 total)
+2025-10-23 03:59:35,963 - INFO - Clicked 'show more' button
+2025-10-23 03:59:43,151 - INFO - Scraped Mr Akinwole II Omoboriowo (75 total)
+2025-10-23 03:59:46,942 - INFO - Scraped Mr Christer Viktorsson (76 total)
+2025-10-23 03:59:49,730 - INFO - Scraped Engr Thomas Kazakos (77 total)
+2025-10-23 03:59:54,035 - INFO - Scraped Mr James  McIntyre (78 total)
+2025-10-23 03:59:57,821 - INFO - Scraped Mr Chinmoy  Baruah (79 total)
+2025-10-23 04:00:01,644 - INFO - Scraped Mr Mark O Neil (80 total)
+2025-10-23 04:00:04,218 - INFO - Clicked 'show more' button
+2025-10-23 04:00:12,030 - INFO - Scraped Mr Michael  Sonderby (81 total)
+2025-10-23 04:00:12,031 - INFO - Scrolling after 11 attempts
+2025-10-23 04:00:14,965 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:00:18,869 - INFO - Skipped Mr Chinmoy  Baruah (already in database)
+2025-10-23 04:00:22,572 - INFO - Skipped Mr Mark O Neil (already in database)
+2025-10-23 04:00:24,847 - INFO - Clicked 'show more' button
+2025-10-23 04:00:32,207 - INFO - Skipped Mr Michael  Sonderby (already in database)
+2025-10-23 04:00:34,469 - INFO - Clicked 'show more' button
+2025-10-23 04:00:41,644 - INFO - Scraped Mr Jay Sadiq (82 total)
+2025-10-23 04:00:45,104 - INFO - Scraped Mr Reda Nidhakou (83 total)
+2025-10-23 04:00:47,633 - INFO - Clicked 'show more' button
+2025-10-23 04:00:54,568 - INFO - Scraped Ms. Areije  Al Shakar (84 total)
+2025-10-23 04:00:58,435 - INFO - Scraped Mr Tom  Sikorski (85 total)
+2025-10-23 04:01:02,256 - INFO - Scraped Ms Vartika  Shukla (86 total)
+2025-10-23 04:01:06,014 - INFO - Scraped Mr M Yusri  B M Yusof (87 total)
+2025-10-23 04:01:08,513 - INFO - Clicked 'show more' button
+2025-10-23 04:01:15,699 - INFO - Scraped Mr. Martijn van Koten (88 total)
+2025-10-23 04:01:21,463 - INFO - Scraped Mr James Brady (89 total)
+2025-10-23 04:01:21,464 - INFO - Scrolling after 11 attempts
+2025-10-23 04:01:24,487 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:01:28,285 - INFO - Skipped Mr M Yusri  B M Yusof (already in database)
+2025-10-23 04:01:30,732 - INFO - Clicked 'show more' button
+2025-10-23 04:01:38,248 - INFO - Skipped Mr. Martijn van Koten (already in database)
+2025-10-23 04:01:41,787 - INFO - Skipped Mr James Brady (already in database)
+2025-10-23 04:01:44,131 - INFO - Clicked 'show more' button
+2025-10-23 04:01:51,614 - INFO - Scraped Mr Raphaël  Barreau (90 total)
+2025-10-23 04:01:54,131 - INFO - Clicked 'show more' button
+2025-10-23 04:02:01,245 - INFO - Scraped Mr Steve Hill (91 total)
+2025-10-23 04:02:04,930 - INFO - Scraped Mr Mohamed  Jamal-Eddine (92 total)
+2025-10-23 04:02:08,647 - INFO - Scraped Ms Kristin  Ruzicka (93 total)
+2025-10-23 04:02:12,331 - INFO - Scraped Mr Muzzamil  Khider Ahmed (94 total)
+2025-10-23 04:02:14,746 - INFO - Clicked 'show more' button
+2025-10-23 04:02:21,116 - INFO - Scraped Ms Shaloo Kakkar Kulkarni (95 total)
+2025-10-23 04:02:25,433 - INFO - Scraped Mr Anant  Maheshwari (96 total)
+2025-10-23 04:02:28,423 - INFO - Scraped Mr Wang Zhen (97 total)
+2025-10-23 04:02:28,423 - INFO - Scrolling after 11 attempts
+2025-10-23 04:02:32,057 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:02:35,459 - INFO - Skipped Mr Anant  Maheshwari (already in database)
+2025-10-23 04:02:40,436 - INFO - Skipped Mr Wang Zhen (already in database)
+2025-10-23 04:02:42,947 - INFO - Clicked 'show more' button
+2025-10-23 04:02:49,381 - INFO - Scraped Mr Bradford  Crabtree (98 total)
+2025-10-23 04:02:52,573 - INFO - Scraped Ms Hinda  Gharbi (99 total)
+2025-10-23 04:02:56,640 - INFO - Scraped Ms Michèle Azalbert (100 total)
+2025-10-23 04:02:59,064 - INFO - Clicked 'show more' button
+2025-10-23 04:03:06,265 - INFO - Scraped Mr Wa’el  Almazeedi (101 total)
+2025-10-23 04:03:08,650 - INFO - Clicked 'show more' button
+2025-10-23 04:03:15,755 - INFO - Scraped Mr Bart  Biebuyck (102 total)
+2025-10-23 04:03:18,930 - INFO - Scraped Mr Håkon  Volldal (103 total)
+2025-10-23 04:03:23,264 - INFO - Scraped Dr Stefan  Buerkle (104 total)
+2025-10-23 04:03:27,436 - INFO - Scrolling after 11 attempts
+2025-10-23 04:03:30,354 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:03:33,204 - INFO - Skipped Dr Stefan  Buerkle (already in database)
+2025-10-23 04:03:37,138 - INFO - Scraped Mr Josh  Haacker (105 total)
+2025-10-23 04:03:40,216 - INFO - Clicked 'show more' button
+2025-10-23 04:03:50,536 - INFO - Scraped Mr Tinboat  Arslanouk (106 total)
+2025-10-23 04:03:54,499 - INFO - Scraped Ms. Aparna  Raman (107 total)
+2025-10-23 04:03:58,420 - INFO - Clicked 'show more' button
+2025-10-23 04:04:07,639 - INFO - Scraped Mr Sean  Spicer (108 total)
+2025-10-23 04:04:10,755 - INFO - Scraped Mr Philippe Khoury (109 total)
+2025-10-23 04:04:15,693 - INFO - Scraped Ms Giuseppina Ragone (110 total)
+2025-10-23 04:04:20,148 - INFO - Scraped Mr Khalfan  Al Mansoori (111 total)
+2025-10-23 04:04:24,530 - INFO - Clicked 'show more' button
+2025-10-23 04:04:33,550 - INFO - Scraped Mr Joel Couse Couse (112 total)
+2025-10-23 04:04:37,419 - INFO - Scrolling after 11 attempts
+2025-10-23 04:04:42,496 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:04:46,907 - INFO - Skipped Mr Philippe Khoury (already in database)
+2025-10-23 04:04:50,865 - INFO - Skipped Ms Giuseppina Ragone (already in database)
+2025-10-23 04:04:54,595 - INFO - Skipped Mr Khalfan  Al Mansoori (already in database)
+2025-10-23 04:04:58,287 - INFO - Clicked 'show more' button
+2025-10-23 04:05:08,633 - INFO - Skipped Mr Joel Couse Couse (already in database)
+2025-10-23 04:05:13,317 - INFO - Scraped Mr Tobias  Panse (113 total)
+2025-10-23 04:05:23,019 - INFO - Scraped Mr Gino  Hernandez (114 total)
+2025-10-23 04:06:09,658 - INFO - Scrolling after 11 attempts
+2025-10-23 04:06:09,748 - WARNING - Scroll error: device 'emulator-5554' not found
+2025-10-23 04:14:37,930 - INFO - Starting Android app scraper
+2025-10-23 04:14:40,514 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:14:42,754 - INFO - Skipped Mr Khalfan  Al Mansoori (already in database)
+2025-10-23 04:14:44,555 - INFO - Clicked 'show more' button
+2025-10-23 04:14:47,560 - INFO - Skipped Mr Joel Couse Couse (already in database)
+2025-10-23 04:14:50,405 - INFO - Skipped Mr Gino  Hernandez (already in database)
+2025-10-23 04:15:06,874 - INFO - Scrolling after 11 attempts
+2025-10-23 04:15:08,342 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:15:10,006 - INFO - Clicked 'show more' button
+2025-10-23 04:15:13,037 - INFO - Scraped Mr Som Dutta (1 total)
+2025-10-23 04:15:14,829 - INFO - Clicked 'show more' button
+2025-10-23 04:15:17,719 - INFO - Scraped Ms Ayesha Al Hammadi (2 total)
+2025-10-23 04:15:36,122 - INFO - Scrolling after 11 attempts
+2025-10-23 04:15:37,625 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:15:39,674 - INFO - Scraped Ms Noura Al Nuaimi (3 total)
+2025-10-23 04:15:41,996 - INFO - Scraped Mr Mohamed Sijilmassi (4 total)
+2025-10-23 04:15:44,814 - INFO - Scraped Dr Hans  Dieter Hermes (5 total)
+2025-10-23 04:16:01,258 - INFO - Scrolling after 11 attempts
+2025-10-23 04:16:02,724 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:16:05,457 - INFO - Skipped Dr Hans  Dieter Hermes (already in database)
+2025-10-23 04:16:08,116 - INFO - Scraped Semih Ozkan (6 total)
+2025-10-23 04:16:11,825 - INFO - Scraped Mr Ali Al Sayegh (7 total)
+2025-10-23 04:16:28,278 - INFO - Scrolling after 11 attempts
+2025-10-23 04:16:29,807 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:16:32,457 - INFO - Skipped Mr Ali Al Sayegh (already in database)
+2025-10-23 04:16:34,178 - INFO - Clicked 'show more' button
+2025-10-23 04:16:37,615 - INFO - Scraped Ms Hema  Prapoo (8 total)
+2025-10-23 04:16:40,255 - INFO - Scraped Ms Elpi  Petraki (9 total)
+2025-10-23 04:16:56,671 - INFO - Scrolling after 11 attempts
+2025-10-23 04:16:58,138 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:17:00,821 - INFO - Scraped Mr Ashish  Agarwal (10 total)
+2025-10-23 04:17:02,911 - INFO - Scraped Mr Ivan  Mozharov  (11 total)
+2025-10-23 04:17:05,697 - INFO - Scraped Mr Marco  Villa (12 total)
+2025-10-23 04:17:22,127 - INFO - Scrolling after 11 attempts
+2025-10-23 04:17:23,608 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:17:26,191 - INFO - Skipped Mr Marco  Villa (already in database)
+2025-10-23 04:17:27,790 - INFO - Clicked 'show more' button
+2025-10-23 04:17:30,940 - INFO - Scraped Ms Madadh  MacLaine (13 total)
+2025-10-23 04:17:32,755 - INFO - Clicked 'show more' button
+2025-10-23 04:17:35,746 - INFO - Scraped Mr Bart  White (14 total)
+2025-10-23 04:17:52,243 - INFO - Scrolling after 11 attempts
+2025-10-23 04:17:53,755 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:17:55,422 - INFO - Clicked 'show more' button
+2025-10-23 04:17:58,434 - INFO - Scraped Mr Bob  McNally (15 total)
+2025-10-23 04:18:01,379 - INFO - Scraped Ms Akanksha Batura Pai (16 total)
+2025-10-23 04:18:03,991 - INFO - Scraped Prof Ghassan Aouad (17 total)
+2025-10-23 04:18:20,396 - INFO - Scrolling after 11 attempts
+2025-10-23 04:18:21,823 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:18:24,358 - INFO - Skipped Prof Ghassan Aouad (already in database)
+2025-10-23 04:18:25,941 - INFO - Clicked 'show more' button
+2025-10-23 04:18:28,934 - INFO - Scraped Ghassan Wakim (18 total)
+2025-10-23 04:28:58,208 - INFO - Starting Android app scraper
+2025-10-23 04:28:59,641 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:29:02,346 - INFO - Scraped Manal Hassan (1 total)
+2025-10-23 04:29:04,841 - INFO - Skipped Manal Hassan (already in database)
+2025-10-23 04:29:07,254 - INFO - Scraped Mr Muhsin Al Rustom (2 total)
+2025-10-23 04:29:09,708 - INFO - Skipped Mr Muhsin Al Rustom (already in database)
+2025-10-23 04:29:11,172 - INFO - Clicked 'show more' button
+2025-10-23 04:30:19,939 - INFO - Starting Android app scraper
+2025-10-23 04:30:21,248 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:30:23,856 - INFO - Skipped Manal Hassan (already in database)
+2025-10-23 04:30:26,357 - INFO - Skipped Manal Hassan (already in database)
+2025-10-23 04:30:28,892 - INFO - Skipped Mr Muhsin Al Rustom (already in database)
+2025-10-23 04:30:30,883 - INFO - Skipped Mr Muhsin Al Rustom (already in database)
+2025-10-23 04:30:32,671 - INFO - Clicked 'show more' button
+2025-10-23 04:30:35,782 - INFO - Scraped Ms Hanan  Balalaa (1 total)
+2025-10-23 04:30:38,466 - INFO - Scraped Mr Guy Moeyens (2 total)
+2025-10-23 04:30:40,917 - INFO - Skipped Mr Guy Moeyens (already in database)
+2025-10-23 04:30:42,822 - INFO - Scraped Mr Raphaël Tilot (3 total)
+2025-10-23 04:30:45,103 - INFO - Scraped Dr Tony Pan (4 total)
+2025-10-23 04:30:48,679 - INFO - Skipped Dr Tony Pan (already in database)
+2025-10-23 04:30:50,143 - INFO - Clicked 'show more' button
+2025-10-23 04:30:53,217 - INFO - Skipped Mr Som Dutta (already in database)
+2025-10-23 04:30:53,217 - INFO - Scrolling after 11 attempts
+2025-10-23 04:30:55,007 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:32:00,919 - INFO - Starting Android app scraper
+2025-10-23 04:32:02,244 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:32:05,397 - INFO - Scraped Unknown (1 total)
+2025-10-23 04:32:08,309 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:32:10,637 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:32:16,102 - INFO - Starting Android app scraper
+2025-10-23 04:32:17,619 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:32:20,741 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:32:27,874 - INFO - Starting Android app scraper
+2025-10-23 04:32:29,292 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:32:30,856 - INFO - Clicked 'show more' button
+2025-10-23 04:32:33,963 - INFO - Scraped HE Dr. Sultan  Ahmed Al Jaber (1 total)
+2025-10-23 04:32:35,793 - INFO - Clicked 'show more' button
+2025-10-23 04:32:39,082 - INFO - Skipped HE Dr. Sultan  Ahmed Al Jaber (already in database)
+2025-10-23 04:32:40,956 - INFO - Clicked 'show more' button
+2025-10-23 04:32:44,044 - INFO - Skipped HE Suhail Mohamed Al Mazrouei (already in database)
+2025-10-23 04:32:45,840 - INFO - Clicked 'show more' button
+2025-10-23 04:32:49,044 - INFO - Skipped HE Suhail Mohamed Al Mazrouei (already in database)
+2025-10-23 04:32:51,958 - INFO - Skipped HH Abdulaziz Bin Salman   Bin Abdulaziz Al Saud (already in database)
+2025-10-23 04:32:53,380 - INFO - Clicked 'show more' button
+2025-10-23 04:32:56,544 - INFO - Skipped Secretary Doug Burgum (already in database)
+2025-10-23 04:32:58,321 - INFO - Clicked 'show more' button
+2025-10-23 04:33:01,530 - INFO - Skipped Secretary Doug Burgum (already in database)
+2025-10-23 04:33:04,441 - INFO - Skipped HE Saad bin Sherida  Al Kaabi (already in database)
+2025-10-23 04:33:06,313 - INFO - Skipped His Highness Shaikh Nasser bin Hamad Al Khalifa (already in database)
+2025-10-23 04:33:09,259 - INFO - Skipped HE Dr. Mohamed  bin Mubarak Bin Daina (already in database)
+2025-10-23 04:33:11,778 - INFO - Skipped HE Dr. Mohamed  bin Mubarak Bin Daina (already in database)
+2025-10-23 04:33:11,778 - INFO - Scrolling after 11 attempts
+2025-10-23 04:33:13,309 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:33:14,743 - INFO - Clicked 'show more' button
+2025-10-23 04:33:18,357 - INFO - Skipped HE Saleh  Kharabsheh (already in database)
+2025-10-23 04:33:20,884 - INFO - Skipped James Danly (already in database)
+2025-10-23 04:34:24,006 - INFO - Starting Android app scraper
+2025-10-23 04:34:25,300 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:34:28,427 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:34:39,609 - INFO - Starting Android app scraper
+2025-10-23 04:34:41,158 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:34:43,748 - INFO - Scraped Mr Elias  Abou Jawdeh (1 total)
+2025-10-23 04:34:46,243 - INFO - Skipped Mr Elias  Abou Jawdeh (already in database)
+2025-10-23 04:34:48,674 - INFO - Skipped Ms Elpi  Petraki (already in database)
+2025-10-23 04:34:51,151 - INFO - Scraped Dr Steffen  Richter (2 total)
+2025-10-23 04:34:53,649 - INFO - Scraped Prof. Lynne Jack (3 total)
+2025-10-23 04:34:56,182 - INFO - Scraped Ms Alicia Eastman (4 total)
+2025-10-23 04:34:57,593 - INFO - Clicked 'show more' button
+2025-10-23 04:35:00,508 - INFO - Scraped Ms Lydia Rainforth (5 total)
+2025-10-23 04:35:03,469 - INFO - Scraped Ms Sophia Nadur (6 total)
+2025-10-23 04:35:05,864 - INFO - Scraped Mr Walter  P. Purio (7 total)
+2025-10-23 04:35:08,343 - INFO - Skipped Mr Ashish  Agarwal (already in database)
+2025-10-23 04:35:10,757 - INFO - Skipped Mr Ivan  Mozharov  (already in database)
+2025-10-23 04:35:10,757 - INFO - Scrolling after 11 attempts
+2025-10-23 04:35:12,226 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:36:21,202 - INFO - Starting Android app scraper
+2025-10-23 04:36:22,655 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:36:25,307 - INFO - Skipped Mr Khalfan  Al Mansoori (already in database)
+2025-10-23 04:36:26,772 - INFO - Clicked 'show more' button
+2025-10-23 04:36:29,768 - INFO - Skipped Mr Joel Couse Couse (already in database)
+2025-10-23 04:36:31,688 - INFO - Clicked 'show more' button
+2025-10-23 04:36:34,615 - INFO - Skipped Mr Joel Couse Couse (already in database)
+2025-10-23 04:36:37,492 - INFO - Skipped Mr Tobias  Panse (already in database)
+2025-10-23 04:36:40,050 - INFO - Scraped Mr Ali  Al Rawahi (1 total)
+2025-10-23 04:36:42,543 - INFO - Skipped Mr Ali  Al Rawahi (already in database)
+2025-10-23 04:36:44,446 - INFO - Scraped Ms Iman  Al Qasim (2 total)
+2025-10-23 04:36:46,720 - INFO - Scraped Mr Giovanni  Sale (3 total)
+2025-10-23 04:36:49,460 - INFO - Skipped Mr Gino  Hernandez (already in database)
+2025-10-23 04:36:51,957 - INFO - Skipped Mr Gino  Hernandez (already in database)
+2025-10-23 04:36:54,440 - INFO - Skipped Manal Hassan (already in database)
+2025-10-23 04:36:54,440 - INFO - Scrolling after 11 attempts
+2025-10-23 04:36:55,924 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:36:57,824 - INFO - Skipped Mr Guy Moeyens (already in database)
+2025-10-23 04:38:29,864 - INFO - Starting Android app scraper
+2025-10-23 04:38:31,339 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:38:33,874 - INFO - Skipped Mr Guy Moeyens (already in database)
+2025-10-23 04:38:36,375 - INFO - Skipped Mr Raphaël Tilot (already in database)
+2025-10-23 04:38:37,927 - INFO - Clicked 'show more' button
+2025-10-23 04:38:41,164 - INFO - Skipped Mr Som Dutta (already in database)
+2025-10-23 04:38:43,024 - INFO - Clicked 'show more' button
+2025-10-23 04:48:17,112 - INFO - Starting Android app scraper
+2025-10-23 04:48:18,525 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:48:21,184 - INFO - Skipped Mr Olakunle  A. Osobu (already in database)
+2025-10-23 04:48:23,712 - INFO - Skipped Mr Nasser  Al Muhairi (already in database)
+2025-10-23 04:48:26,330 - INFO - Skipped Mr Bruce  Chalton (already in database)
+2025-10-23 04:48:28,930 - INFO - Skipped Mr Bernhard  Koudelka (already in database)
+2025-10-23 04:48:30,469 - INFO - Clicked 'show more' button
+2025-10-23 04:48:34,523 - INFO - Skipped Mr Jun  Arima (already in database)
+2025-10-23 04:48:37,419 - INFO - Skipped Mr Horst H.  Mahmoudi (already in database)
+2025-10-23 04:48:38,919 - INFO - Clicked 'show more' button
+2025-10-23 04:48:43,014 - INFO - Skipped Ms Maha Attia (already in database)
+2025-10-23 04:48:45,962 - INFO - Skipped Ms Audrey  Ma (already in database)
+2025-10-23 04:48:48,547 - INFO - Skipped Ms Audrey  Ma (already in database)
+2025-10-23 04:48:50,450 - INFO - Skipped Mr Benjamin  Lechuga (already in database)
+2025-10-23 04:48:53,381 - INFO - Skipped Mr Benjamin  Lechuga (already in database)
+2025-10-23 04:48:53,382 - INFO - Scrolling after 11 attempts
+2025-10-23 04:48:54,313 - INFO - Scroll complete - reset to index 0
+2025-10-23 04:48:57,420 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:49:00,564 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:50:17,474 - INFO - Starting Android app scraper
+2025-10-23 04:50:18,784 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:50:20,880 - INFO - Clicked 'show more' button
+2025-10-23 04:50:25,049 - ERROR - Failed to scrape person: (-32001, 'androidx.test.uiautomator.UiObjectNotFoundException', ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.swapcard.apps.android.adipec:id/detail_pager_sections'}, True, 55))
+2025-10-23 04:50:28,544 - INFO - Skipped Ms Charlotte  Wolff-Bye (already in database)
+2025-10-23 04:50:31,414 - INFO - Skipped Mr Matthew  Schatzman (already in database)
+2025-10-23 04:50:32,955 - INFO - Clicked 'show more' button
+2025-10-23 04:50:37,581 - INFO - Skipped Dr Ranjit  Rath (already in database)
+2025-10-23 04:50:39,928 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:50:44,231 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:50:47,190 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:53:12,454 - INFO - Starting Android app scraper
+2025-10-23 04:53:13,861 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:53:13,862 - INFO - Database has 216 people - resuming from swipe 18
+2025-10-23 04:53:31,131 - INFO - Restored to swipe 18
+2025-10-23 04:53:34,180 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:53:37,319 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:56:57,857 - INFO - Starting Android app scraper
+2025-10-23 04:56:59,355 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:56:59,356 - INFO - Database has 216 people - resuming from swipe 18
+2025-10-23 04:57:15,363 - INFO - Restored to swipe 18
+2025-10-23 04:57:18,932 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:57:21,425 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:57:29,251 - INFO - Starting Android app scraper
+2025-10-23 04:57:30,730 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:57:30,730 - INFO - Database has 216 people - resuming from swipe 18
+2025-10-23 04:57:47,929 - INFO - Restored to swipe 18
+2025-10-23 04:57:50,847 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:57:53,803 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:57:57,499 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:57:59,910 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:58:03,675 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:58:05,969 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:58:09,045 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:58:11,821 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:58:37,664 - INFO - Starting Android app scraper
+2025-10-23 04:58:39,107 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:58:39,107 - INFO - Database has 216 people - resuming from swipe 18
+2025-10-23 04:58:54,862 - INFO - Restored to swipe 18
+2025-10-23 04:59:02,466 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:59:05,650 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:59:08,771 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:59:24,520 - INFO - Starting Android app scraper
+2025-10-23 04:59:26,003 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 04:59:26,004 - INFO - Database has 216 people - resuming from swipe 18
+2025-10-23 04:59:42,446 - INFO - Restored to swipe 18
+2025-10-23 04:59:50,598 - INFO - Skipped Unknown (already in database)
+2025-10-23 04:59:52,389 - INFO - Clicked 'show more' button
+2025-10-23 05:01:17,884 - INFO - Starting Android app scraper
+2025-10-23 05:01:19,233 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:01:19,233 - INFO - Starting scraper from current position
+2025-10-23 05:01:22,976 - INFO - Scraped Rustam Kazakov (1 total)
+2025-10-23 05:01:24,547 - INFO - Clicked 'show more' button
+2025-10-23 05:01:28,597 - INFO - Scraped Mr Oskar  Schnabel (2 total)
+2025-10-23 05:01:31,556 - INFO - Scraped Mr Peter-Paul  Langerak (3 total)
+2025-10-23 05:01:33,103 - INFO - Clicked 'show more' button
+2025-10-23 05:03:48,272 - INFO - Starting Android app scraper
+2025-10-23 05:03:49,632 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:03:49,632 - INFO - Starting scraper from current position
+2025-10-23 05:03:51,478 - INFO - Clicked 'show more' button
+2025-10-23 05:03:54,302 - INFO - Scraped Mr Aly Ahmed Aly (1 total)
+2025-10-23 05:03:56,886 - INFO - Scraped Engr Ali Alblooshi (2 total)
+2025-10-23 05:03:58,415 - INFO - Clicked 'show more' button
+2025-10-23 05:04:00,554 - INFO - Scraped Engr Igbon Oyakhire-Ifijeh (3 total)
+2025-10-23 05:04:03,588 - INFO - Scraped Mr Azmat Ali (4 total)
+2025-10-23 05:04:06,151 - INFO - Scraped Renaud Cadours (5 total)
+2025-10-23 05:04:07,682 - INFO - Clicked 'show more' button
+2025-10-23 05:04:09,918 - INFO - Scraped Mr Gerhard Warecka (6 total)
+2025-10-23 05:04:11,884 - INFO - Clicked 'show more' button
+2025-10-23 05:04:13,961 - INFO - Scraped Mr Pritam Maity (7 total)
+2025-10-23 05:04:16,893 - INFO - Scraped Dr Mohammed Abdelfettah BOUZID (8 total)
+2025-10-23 05:04:19,450 - INFO - Skipped Dr Mohammed Abdelfettah BOUZID (already in database)
+2025-10-23 05:04:22,043 - INFO - Scraped Ramesh Kumar (9 total)
+2025-10-23 05:04:24,617 - INFO - Skipped Ramesh Kumar (already in database)
+2025-10-23 05:04:24,617 - INFO - Scrolling (swipe #1)
+2025-10-23 05:04:25,581 - INFO - Swipe complete (swipe 1)
+2025-10-23 05:04:28,034 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:04:31,582 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:06:29,746 - INFO - Starting Android app scraper
+2025-10-23 05:06:31,165 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:06:31,165 - INFO - Starting scraper from current position
+2025-10-23 05:06:33,934 - INFO - Skipped Dr Stefan  Buerkle (already in database)
+2025-10-23 05:06:35,966 - INFO - Scraped Mr Hesham  Tashkandi (1 total)
+2025-10-23 05:06:39,007 - INFO - Scraped Dr Michele  Fiorentino (2 total)
+2025-10-23 05:06:41,633 - INFO - Skipped Mr Josh  Haacker (already in database)
+2025-10-23 05:06:43,133 - INFO - Clicked 'show more' button
+2025-10-23 05:06:45,397 - INFO - Scraped Ms Yumiko  Yao (3 total)
+2025-10-23 05:06:47,335 - INFO - Clicked 'show more' button
+2025-10-23 05:06:49,966 - INFO - Skipped Mr Tinboat  Arslanouk (already in database)
+2025-10-23 05:06:52,497 - INFO - Skipped Ms. Aparna  Raman (already in database)
+2025-10-23 05:06:54,004 - INFO - Clicked 'show more' button
+2025-10-23 05:06:56,052 - INFO - Skipped Mr Sean  Spicer (already in database)
+2025-10-23 05:06:58,003 - INFO - Clicked 'show more' button
+2025-10-23 05:07:00,679 - INFO - Skipped Mr Sean  Spicer (already in database)
+2025-10-23 05:07:03,279 - INFO - Skipped Ms Giuseppina Ragone (already in database)
+2025-10-23 05:07:05,459 - INFO - Skipped Ms Giuseppina Ragone (already in database)
+2025-10-23 05:07:05,459 - INFO - Scrolling (swipe #1)
+2025-10-23 05:07:08,016 - INFO - Scroll complete (swipe 1)
+2025-10-23 05:07:10,674 - INFO - Skipped Mr Philippe Khoury (already in database)
+2025-10-23 05:07:13,215 - INFO - Skipped Ms Giuseppina Ragone (already in database)
+2025-10-23 05:07:15,713 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:07:19,250 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:08:28,084 - INFO - Starting Android app scraper
+2025-10-23 05:08:29,468 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:08:29,468 - INFO - Starting scraper from current position
+2025-10-23 05:08:31,101 - INFO - Clicked 'show more' button
+2025-10-23 05:08:33,511 - INFO - Scraped Dr Hebatallah Khaled Abd El Badie (1 total)
+2025-10-23 05:08:35,445 - INFO - Clicked 'show more' button
+2025-10-23 05:08:38,273 - INFO - Scraped Mr Simon Jagers (2 total)
+2025-10-23 05:08:39,770 - INFO - Clicked 'show more' button
+2025-10-23 05:08:41,985 - INFO - Scraped Dr Aurelio Ferrucci (3 total)
+2025-10-23 05:08:43,838 - INFO - Clicked 'show more' button
+2025-10-23 05:08:46,020 - INFO - Scraped Ms Nadeen Omar Awwad (4 total)
+2025-10-23 05:08:48,888 - INFO - Scraped Moustafa Amer (5 total)
+2025-10-23 05:08:51,421 - INFO - Scraped Mr Mustafa Vahgjipurwala (6 total)
+2025-10-23 05:08:54,022 - INFO - Scraped Dr Talal Al Aulaqi (7 total)
+2025-10-23 05:08:56,655 - INFO - Scraped Engr Manisha Bhuskute (8 total)
+2025-10-23 05:08:59,265 - INFO - Skipped Engr Manisha Bhuskute (already in database)
+2025-10-23 05:09:00,839 - INFO - Clicked 'show more' button
+2025-10-23 05:09:03,825 - INFO - Scraped Mr Saurabh Agarawala (9 total)
+2025-10-23 05:09:05,350 - INFO - Clicked 'show more' button
+2025-10-23 05:09:07,498 - INFO - Skipped Mr Saurabh Agarawala (already in database)
+2025-10-23 05:09:07,498 - INFO - Scrolling (swipe #1)
+2025-10-23 05:09:09,764 - INFO - Scroll complete (swipe 1)
+2025-10-23 05:09:12,398 - INFO - Skipped Engr Igbon Oyakhire-Ifijeh (already in database)
+2025-10-23 05:09:14,997 - INFO - Skipped Mr Azmat Ali (already in database)
+2025-10-23 05:09:16,553 - INFO - Clicked 'show more' button
+2025-10-23 05:09:18,848 - INFO - Skipped Mr Gerhard Warecka (already in database)
+2025-10-23 05:09:20,787 - INFO - Clicked 'show more' button
+2025-10-23 05:09:23,297 - INFO - Skipped Mr Gerhard Warecka (already in database)
+2025-10-23 05:09:25,164 - INFO - Clicked 'show more' button
+2025-10-23 05:09:27,653 - INFO - Skipped Mr Pritam Maity (already in database)
+2025-10-23 05:09:30,714 - INFO - Skipped Dr Mohammed Abdelfettah BOUZID (already in database)
+2025-10-23 05:09:33,306 - INFO - Scraped Mr Mohamed Hasan (10 total)
+2025-10-23 05:09:35,865 - INFO - Skipped Ramesh Kumar (already in database)
+2025-10-23 05:09:38,981 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:09:42,013 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:09:44,372 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:09:44,373 - INFO - Scrolling (swipe #2)
+2025-10-23 05:09:44,940 - WARNING - List container not found
+2025-10-23 05:10:17,517 - INFO - Starting Android app scraper
+2025-10-23 05:10:18,307 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:10:18,307 - INFO - Starting scraper from current position
+2025-10-23 05:10:21,592 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:10:25,559 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:10:29,647 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:11:29,260 - INFO - Starting Android app scraper
+2025-10-23 05:11:30,707 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:11:30,707 - INFO - Starting scraper from current position
+2025-10-23 05:11:32,417 - INFO - Clicked 'show more' button
+2025-10-23 05:11:34,677 - INFO - Scraped Mr Dietmar  Steinschorn (1 total)
+2025-10-23 05:11:37,705 - INFO - Scraped Ms Enshad Alkilani (2 total)
+2025-10-23 05:11:39,138 - INFO - Clicked 'show more' button
+2025-10-23 05:11:41,380 - INFO - Scraped Mr Aloke Sarkar (3 total)
+2025-10-23 05:11:43,365 - INFO - Clicked 'show more' button
+2025-10-23 05:11:45,621 - INFO - Scraped Mr Saeed Almheiri (4 total)
+2025-10-23 05:11:47,537 - INFO - Clicked 'show more' button
+2025-10-23 05:11:50,288 - INFO - Scraped Mr Vipindas Ramadas (5 total)
+2025-10-23 05:11:51,953 - INFO - Clicked 'show more' button
+2025-10-23 05:11:54,657 - INFO - Scraped Mr Marcus Vinicius Gomes Abreu (6 total)
+2025-10-23 05:11:57,205 - INFO - Scraped Mrs Neveen Safwat Aboul Nour (7 total)
+2025-10-23 05:11:58,739 - INFO - Clicked 'show more' button
+2025-10-23 05:12:01,091 - INFO - Scraped Mr Rampradesh Natarajan (8 total)
+2025-10-23 05:12:03,005 - INFO - Clicked 'show more' button
+2025-10-23 05:12:05,380 - INFO - Skipped Mr Rampradesh Natarajan (already in database)
+2025-10-23 05:12:08,408 - INFO - Scraped Mr Makky Al Hassan (9 total)
+2025-10-23 05:12:11,018 - INFO - Skipped Mr Makky Al Hassan (already in database)
+2025-10-23 05:12:11,018 - INFO - Scrolling (swipe #1)
+2025-10-23 05:12:13,304 - INFO - Scroll complete (swipe 1)
+2025-10-23 05:12:39,178 - INFO - Starting Android app scraper
+2025-10-23 05:12:40,770 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:12:40,771 - INFO - Starting scraper from current position
+2025-10-23 05:12:44,291 - INFO - Scraped Aseel Hussien (1 total)
+2025-10-23 05:12:48,316 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:12:51,287 - INFO - Scraped Mr Raul Llorens (2 total)
+2025-10-23 05:12:53,661 - ERROR - Failed to scrape person: {'code': -32002, 'data': "Selector [resourceId='com.swapcard.apps.android.adipec:id/header_name']", 'method': 'wait'}
+2025-10-23 05:12:59,354 - INFO - Scraped Praveen Kumar Venkatesh (3 total)
+2025-10-23 05:13:03,147 - INFO - Scraped Mr Saif Al Malahi (4 total)
+2025-10-23 05:13:05,845 - ERROR - Failed to scrape person: {'code': -32002, 'data': "Selector [resourceId='com.swapcard.apps.android.adipec:id/header_name']", 'method': 'wait'}
+2025-10-23 05:13:11,229 - INFO - Scraped Mr David Mercer (5 total)
+2025-10-23 05:13:14,296 - INFO - Clicked 'show more' button
+2025-10-23 05:13:19,430 - INFO - Scraped Eng Eng. Clint Dietze (6 total)
+2025-10-23 05:13:21,526 - INFO - Clicked 'show more' button
+2025-10-23 05:13:23,946 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:13:28,057 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:13:28,058 - INFO - Scrolling (swipe #1)
+2025-10-23 05:13:29,262 - WARNING - List container not found
+2025-10-23 05:15:16,979 - INFO - Starting Android app scraper
+2025-10-23 05:15:18,436 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:15:18,436 - INFO - Starting scraper from current position
+2025-10-23 05:15:21,956 - INFO - Skipped Mr Saif Al Malahi (already in database)
+2025-10-23 05:15:24,190 - INFO - Clicked 'show more' button
+2025-10-23 05:15:28,341 - INFO - Scraped Dr Prof. (Dr.) Arun Kumar (1 total)
+2025-10-23 05:15:30,744 - INFO - Clicked 'show more' button
+2025-10-23 05:15:34,910 - INFO - Skipped Eng Eng. Clint Dietze (already in database)
+2025-10-23 05:15:38,367 - INFO - Scraped Ms Rinna Santi Sijabat (2 total)
+2025-10-23 05:15:40,536 - INFO - Clicked 'show more' button
+2025-10-23 05:15:43,801 - INFO - Skipped Mr Dietmar  Steinschorn (already in database)
+2025-10-23 05:15:48,056 - INFO - Skipped Ms Enshad Alkilani (already in database)
+2025-10-23 05:15:50,233 - INFO - Clicked 'show more' button
+2025-10-23 05:15:54,510 - INFO - Scraped Ms Elena Stylianou (3 total)
+2025-10-23 05:15:56,716 - INFO - Clicked 'show more' button
+2025-10-23 05:16:00,089 - INFO - Skipped Mr Aloke Sarkar (already in database)
+2025-10-23 05:16:02,867 - INFO - Clicked 'show more' button
+2025-10-23 05:16:06,242 - INFO - Skipped Mr Aloke Sarkar (already in database)
+2025-10-23 05:16:08,881 - INFO - Clicked 'show more' button
+2025-10-23 05:16:12,999 - INFO - Skipped Mr Vipindas Ramadas (already in database)
+2025-10-23 05:16:15,061 - INFO - Clicked 'show more' button
+2025-10-23 05:16:18,405 - INFO - Skipped Mr Vipindas Ramadas (already in database)
+2025-10-23 05:16:18,406 - INFO - Scrolling (swipe #1)
+2025-10-23 05:16:21,870 - INFO - Scroll complete (swipe 1)
+2025-10-23 05:16:25,173 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:16:28,962 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:16:31,338 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:16:34,368 - INFO - Skipped Unknown (already in database)
+2025-10-23 05:17:59,370 - INFO - Starting Android app scraper
+2025-10-23 05:18:00,787 - INFO - Connected to device: {'model': 'sdk_gphone64_x86_64', 'version': 16, 'serial': 'emulator-5554'}
+2025-10-23 05:18:00,787 - INFO - Starting scraper from current position
+2025-10-23 05:18:03,573 - INFO - Clicked 'show more' button
+2025-10-23 05:18:07,919 - INFO - Scraped Mr Jaydeep Jesur (1 total)
+2025-10-23 05:18:11,807 - INFO - Scraped Mr Jonathan Samuels (2 total)
+2025-10-23 05:18:15,587 - INFO - Scraped Dr Romuald Coupan (3 total)
+2025-10-23 05:18:18,030 - INFO - Clicked 'show more' button
+2025-10-23 05:18:22,336 - INFO - Scraped Mr Gabriele Omassi (4 total)
+2025-10-23 05:18:24,767 - INFO - Clicked 'show more' button
+2025-10-23 05:18:28,839 - INFO - Scraped Mr Ilya Likhov (5 total)
+2025-10-23 05:18:31,251 - INFO - Clicked 'show more' button
+2025-10-23 05:18:34,711 - INFO - Scraped Dr Calvin Winter (6 total)
+2025-10-23 05:18:39,130 - INFO - Scraped Mr Raam Thotakura (7 total)
+2025-10-23 05:18:42,853 - INFO - Scraped Parveen Krishan Kohli (8 total)
+2025-10-23 05:18:46,596 - INFO - Scraped Engr JUAN ALVO (9 total)
+2025-10-23 05:18:48,964 - INFO - Clicked 'show more' button
+2025-10-23 05:18:52,416 - INFO - Scraped Mr Somanath Kukade (10 total)
+2025-10-23 05:18:55,368 - INFO - Clicked 'show more' button
+2025-10-23 05:18:58,758 - INFO - Scraped Joseph McMonigle (11 total)
+2025-10-23 05:18:58,759 - INFO - Scrolling (swipe #1)
+2025-10-23 05:19:02,332 - INFO - Scroll complete (swipe 1)
+2025-10-23 05:19:06,044 - INFO - Skipped Moustafa Amer (already in database)
+2025-10-23 05:19:09,823 - INFO - Skipped Mr Mustafa Vahgjipurwala (already in database)
+2025-10-23 05:19:13,466 - INFO - Skipped Dr Talal Al Aulaqi (already in database)
+2025-10-23 05:19:16,080 - INFO - Skipped Engr Manisha Bhuskute (already in database)
+2025-10-23 05:19:20,304 - INFO - Scraped Dr Jinyang Zhao (12 total)
+2025-10-23 05:19:22,585 - INFO - Clicked 'show more' button
+2025-10-23 05:19:25,863 - INFO - Skipped Mr Saurabh Agarawala (already in database)
+2025-10-23 05:19:28,805 - INFO - Clicked 'show more' button
+2025-10-23 05:19:33,145 - INFO - Scraped Mr Grigorios Iatropoulos (13 total)
+2025-10-23 05:19:36,085 - INFO - Scraped Mrs yasmine mccoll (14 total)
+2025-10-23 05:19:38,999 - INFO - Clicked 'show more' button
+2025-10-23 05:19:43,115 - INFO - Skipped Mr Jaydeep Jesur (already in database)
+2025-10-23 05:19:45,941 - INFO - Skipped Mr Jonathan Samuels (already in database)
+2025-10-23 05:19:49,234 - INFO - Skipped Dr Romuald Coupan (already in database)
+2025-10-23 05:19:49,234 - INFO - Scrolling (swipe #2)
+2025-10-23 05:19:52,934 - INFO - Scroll complete (swipe 2)
+2025-10-23 05:19:55,335 - INFO - Clicked 'show more' button
+2025-10-23 05:19:58,448 - INFO - Skipped Mr Pritam Maity (already in database)
+2025-10-23 05:20:02,940 - INFO - Skipped Dr Mohammed Abdelfettah BOUZID (already in database)
+2025-10-23 05:20:05,863 - INFO - Skipped Mr Mohamed Hasan (already in database)
+2025-10-23 05:20:11,646 - INFO - Skipped Mr Azmat Ali (already in database)
+2025-10-23 05:20:14,003 - INFO - Clicked 'show more' button
+2025-10-23 05:20:17,430 - INFO - Skipped Mr Gerhard Warecka (already in database)
+2025-10-23 05:20:20,930 - INFO - Clicked 'show more' button
+2025-10-23 05:20:24,399 - INFO - Skipped Mr Pritam Maity (already in database)
+2025-10-23 05:20:30,178 - INFO - Scraped Dr Stephan Schubert (15 total)
+2025-10-23 05:20:32,765 - INFO - Clicked 'show more' button
+2025-10-23 05:20:36,141 - INFO - Scraped Mr Hernando Salgado (16 total)
+2025-10-23 05:20:39,557 - INFO - Scraped Mr Abdallah Al-Zyoud (17 total)
+2025-10-23 05:20:40,359 - INFO - Scrolling (swipe #3)
+2025-10-23 05:20:43,236 - INFO - Scroll complete (swipe 3)
+2025-10-23 05:20:46,915 - INFO - Scraped Mr Wei Wang (18 total)
+2025-10-23 05:20:49,634 - INFO - Clicked 'show more' button
+2025-10-23 05:20:53,787 - INFO - Scraped Ms Kaisa Emilia Nikulainen (19 total)
+2025-10-23 05:20:57,227 - INFO - Scraped Mr Piyush Verma (20 total)
+2025-10-23 05:21:00,105 - INFO - Scraped Ms Geetali Kalita (21 total)
+2025-10-23 05:21:03,613 - INFO - Scraped Mr Saud Falak (22 total)
+2025-10-23 05:21:07,799 - INFO - Scraped Maha Fareaa (23 total)
+2025-10-23 05:21:10,031 - INFO - Clicked 'show more' button
+2025-10-23 05:21:14,236 - INFO - Scraped Mr Habib Ahmad Noor (24 total)
+2025-10-23 05:21:18,007 - INFO - Scraped Amrutha MS (25 total)
+2025-10-23 05:21:20,395 - INFO - Clicked 'show more' button
+2025-10-23 05:21:24,591 - INFO - Scraped Engr Abdul Rahman Noah ABOU EINEIN (26 total)
+2025-10-23 05:21:24,713 - INFO - Scrolling (swipe #4)
+2025-10-23 05:21:27,630 - INFO - Scroll complete (swipe 4)
+2025-10-23 05:21:31,387 - INFO - Scraped Mr Satyanarayana K S L (27 total)
+2025-10-23 05:21:35,267 - INFO - Scraped Dr Hongzhi Chen (28 total)
+2025-10-23 05:21:38,941 - INFO - Scraped Dr Torben Hoefel (29 total)
+2025-10-23 05:21:41,540 - INFO - Scraped Dr Muhammad  Ismail Shah (30 total)
+2025-10-23 05:21:44,465 - INFO - Clicked 'show more' button
+2025-10-23 05:21:48,947 - INFO - Scraped Dr Wilderich Heising (31 total)
+2025-10-23 05:21:51,448 - INFO - Clicked 'show more' button
+2025-10-23 05:21:54,821 - INFO - Scraped Mr Suman Raj (32 total)
+2025-10-23 05:21:59,050 - INFO - Scraped Mr Hasan Vural (33 total)
+2025-10-23 05:22:02,906 - INFO - Skipped Mr Wei Wang (already in database)
+2025-10-23 05:22:05,186 - INFO - Clicked 'show more' button
+2025-10-23 05:22:08,276 - INFO - Skipped Ms Kaisa Emilia Nikulainen (already in database)
+2025-10-23 05:22:11,567 - INFO - Skipped Mr Piyush Verma (already in database)
+2025-10-23 05:22:12,353 - INFO - Scrolling (swipe #5)
+2025-10-23 05:22:15,200 - INFO - Scroll complete (swipe 5)
+2025-10-23 05:22:17,607 - INFO - Clicked 'show more' button
+2025-10-23 05:22:21,948 - INFO - Scraped Mr Jérôme Arnaud (34 total)
+2025-10-23 05:22:24,284 - INFO - Clicked 'show more' button
+2025-10-23 05:22:28,689 - INFO - Scraped Mr Aashish Gaurav (35 total)
+2025-10-23 05:22:32,475 - INFO - Scraped Pierre  Capron (36 total)
+2025-10-23 05:22:36,102 - INFO - Scraped Mr Saad Alharbi (37 total)
+2025-10-23 05:22:38,434 - INFO - Clicked 'show more' button
+2025-10-23 05:22:42,721 - INFO - Scraped Mr Dipak Borah (38 total)
+2025-10-23 05:22:45,132 - INFO - Clicked 'show more' button
+2025-10-23 05:22:48,446 - INFO - Scraped Mr Kiran Khanna (39 total)
+2025-10-23 05:22:52,923 - INFO - Skipped Mr Satyanarayana K S L (already in database)
+2025-10-23 05:22:56,528 - INFO - Skipped Dr Hongzhi Chen (already in database)
+2025-10-23 05:23:01,708 - INFO - Skipped Dr Torben Hoefel (already in database)
+2025-10-23 05:23:01,880 - INFO - Scrolling (swipe #6)
+2025-10-23 05:23:04,729 - INFO - Scroll complete (swipe 6)
+2025-10-23 05:23:08,335 - INFO - Scraped Mr Jamil Asfour (40 total)
+2025-10-23 05:23:12,138 - INFO - Scraped Mr Harrison Lung (41 total)
+2025-10-23 05:23:14,517 - INFO - Clicked 'show more' button
+2025-10-23 05:23:18,145 - INFO - Scraped Mr Gary Hicok  (42 total)
+2025-10-23 05:23:20,776 - INFO - Clicked 'show more' button
+2025-10-23 05:23:24,048 - INFO - Scraped Mr Hector  Rocha (43 total)
+2025-10-23 05:23:27,050 - INFO - Clicked 'show more' button
+2025-10-23 05:23:31,322 - INFO - Scraped Engr Vivek Shanker (44 total)
+2025-10-23 05:23:33,813 - INFO - Clicked 'show more' button
+2025-10-23 05:23:37,283 - INFO - Scraped Mr Michael Czarnecki (45 total)
+2025-10-23 05:23:40,113 - INFO - Clicked 'show more' button
+2025-10-23 05:23:44,434 - INFO - Skipped Mr Jérôme Arnaud (already in database)
+2025-10-23 05:23:46,749 - INFO - Clicked 'show more' button
+2025-10-23 05:23:51,085 - INFO - Skipped Mr Aashish Gaurav (already in database)
+2025-10-23 05:23:55,661 - INFO - Skipped Pierre  Capron (already in database)
+2025-10-23 05:23:55,808 - INFO - Scrolling (swipe #7)
+2025-10-23 05:23:58,719 - INFO - Scroll complete (swipe 7)
+2025-10-23 05:24:02,476 - INFO - Skipped Ms Akanksha Batura Pai (already in database)
+2025-10-23 05:24:06,322 - INFO - Skipped Prof Ghassan Aouad (already in database)
+2025-10-23 05:24:09,061 - INFO - Scraped Ms Maria  Flouda (46 total)
+2025-10-23 05:24:12,065 - INFO - Clicked 'show more' button
+2025-10-23 05:24:15,263 - INFO - Scraped Mr Shashank  Sharma (47 total)
+2025-10-23 05:24:18,114 - INFO - Clicked 'show more' button
+2025-10-23 05:24:21,408 - INFO - Skipped Ghassan Wakim (already in database)
+2025-10-23 05:24:25,558 - INFO - Scraped Mr Sanjay  Puri (48 total)
+2025-10-23 05:24:29,276 - INFO - Skipped Mr Jamil Asfour (already in database)
+2025-10-23 05:24:32,890 - INFO - Skipped Mr Harrison Lung (already in database)
+2025-10-23 05:24:33,083 - INFO - Scrolling (swipe #8)
+2025-10-23 05:24:36,089 - INFO - Scroll complete (swipe 8)
+2025-10-23 05:24:38,909 - INFO - Scraped Dr Steven  Griffiths (49 total)
+2025-10-23 05:24:41,852 - INFO - Clicked 'show more' button
+2025-10-23 05:24:44,861 - INFO - Skipped Mr Bob  McNally (already in database)
+2025-10-23 05:24:49,335 - INFO - Scraped Mr Omar  Thukair (50 total)
+2025-10-23 05:24:51,898 - INFO - Clicked 'show more' button
+2025-10-23 05:24:55,906 - INFO - Scraped Mr Amit  Sreedharan (51 total)
+2025-10-23 05:24:58,371 - INFO - Clicked 'show more' button
+2025-10-23 05:25:02,769 - INFO - Scraped Mr Rickard Martensson (52 total)
+2025-10-23 05:25:05,630 - INFO - Scraped Anibor Kragha (53 total)
+2025-10-23 05:25:08,990 - INFO - Skipped Ms Akanksha Batura Pai (already in database)
+2025-10-23 05:25:13,088 - INFO - Skipped Prof Ghassan Aouad (already in database)
+2025-10-23 05:25:13,341 - INFO - Scrolling (swipe #9)
+2025-10-23 05:25:16,220 - INFO - Scroll complete (swipe 9)
+2025-10-23 05:25:19,932 - INFO - Scraped Dr Amrita  Sen (54 total)
+2025-10-23 05:25:22,611 - INFO - Clicked 'show more' button
+2025-10-23 05:25:26,920 - INFO - Scraped Mr Akhil Mehrotra  (55 total)
+2025-10-23 05:25:30,661 - INFO - Scraped Mr Rouzbeh Fazlinejad (56 total)
+2025-10-23 05:25:33,133 - INFO - Clicked 'show more' button
+2025-10-23 05:25:36,321 - INFO - Skipped Ms Madadh  MacLaine (already in database)
+2025-10-23 05:25:39,249 - INFO - Clicked 'show more' button
+2025-10-23 05:25:43,573 - INFO - Skipped Mr Bart  White (already in database)
+2025-10-23 05:25:46,456 - INFO - Scraped Mr Shadi Alghaffari (57 total)
+2025-10-23 05:25:50,797 - INFO - Skipped Dr Steven  Griffiths (already in database)
+2025-10-23 05:25:53,231 - INFO - Clicked 'show more' button
+2025-10-23 05:25:57,429 - INFO - Skipped Mr Bob  McNally (already in database)
+2025-10-23 05:25:57,666 - INFO - Scrolling (swipe #10)
+2025-10-23 05:26:00,588 - INFO - Scroll complete (swipe 10)
+2025-10-23 05:26:04,407 - INFO - Skipped Mr Walter  P. Purio (already in database)
+2025-10-23 05:26:08,330 - INFO - Skipped Mr Ashish  Agarwal (already in database)
+2025-10-23 05:26:12,055 - INFO - Skipped Mr Ivan  Mozharov  (already in database)
+2025-10-23 05:26:15,828 - INFO - Scraped Mr Curt Graham (58 total)
+2025-10-23 05:26:19,513 - INFO - Scraped Mr Santiago  Bañales (59 total)
+2025-10-23 05:26:23,192 - INFO - Skipped Mr Marco  Villa (already in database)
+2025-10-23 05:26:26,881 - INFO - Scraped Ms Danielle  Jones-Hunte (60 total)
+2025-10-23 05:26:30,638 - INFO - Skipped Dr Amrita  Sen (already in database)
+2025-10-23 05:26:30,871 - INFO - Scrolling (swipe #11)
+2025-10-23 05:26:33,760 - INFO - Scroll complete (swipe 11)
+2025-10-23 05:26:37,022 - INFO - Scraped Mr Dany  Rahal (61 total)
+2025-10-23 05:26:39,986 - INFO - Scraped Mr Julien  Perez (62 total)
+2025-10-23 05:26:44,320 - INFO - Skipped Ms Elpi  Petraki (already in database)
+2025-10-23 05:26:47,148 - INFO - Skipped Dr Steffen  Richter (already in database)
+2025-10-23 05:26:50,266 - INFO - Clicked 'show more' button
+2025-10-23 05:26:53,594 - INFO - Skipped Ms Lydia Rainforth (already in database)
+2025-10-23 05:26:57,737 - INFO - Skipped Ms Sophia Nadur (already in database)
+2025-10-23 05:27:01,570 - INFO - Skipped Mr Walter  P. Purio (already in database)
+2025-10-23 05:27:04,318 - INFO - Skipped Mr Ashish  Agarwal (already in database)
+2025-10-23 05:27:08,629 - INFO - Skipped Mr Ivan  Mozharov  (already in database)
+2025-10-23 05:27:08,786 - INFO - Scrolling (swipe #12)
+2025-10-23 05:27:11,664 - INFO - Scroll complete (swipe 12)
+2025-10-23 05:27:14,547 - INFO - Skipped Semih Ozkan (already in database)
+2025-10-23 05:27:18,127 - INFO - Scraped Mr Sunil  Kumar (63 total)
+2025-10-23 05:27:22,700 - INFO - Scraped Mr Richard  Ward (64 total)
+2025-10-23 05:27:26,429 - INFO - Scraped Mr Saamir  Elshihabi (65 total)
+2025-10-23 05:27:30,284 - INFO - Scraped Mr Dan  Hu (66 total)
+2025-10-23 05:27:34,045 - INFO - Skipped Mr Ali Al Sayegh (already in database)
+2025-10-23 05:27:36,583 - INFO - Clicked 'show more' button
+2025-10-23 05:27:40,866 - INFO - Skipped Ms Hema  Prapoo (already in database)
+2025-10-23 05:27:44,532 - INFO - Skipped Mr Dany  Rahal (already in database)
+2025-10-23 05:27:48,208 - INFO - Skipped Mr Julien  Perez (already in database)
+2025-10-23 05:27:48,404 - INFO - Scrolling (swipe #13)
+2025-10-23 05:27:51,231 - INFO - Scroll complete (swipe 13)
+2025-10-23 05:27:54,834 - INFO - Scraped Mr Ali Abouda (67 total)
+2025-10-23 05:27:58,453 - INFO - Scraped Mr Naser  Al Hajri (68 total)
+2025-10-23 05:28:02,007 - INFO - Skipped Mr Mohamed Sijilmassi (already in database)
+2025-10-23 05:28:04,946 - INFO - Skipped Dr Hans  Dieter Hermes (already in database)
+2025-10-23 05:28:09,759 - INFO - Scraped Dr David Burns (69 total)
+2025-10-23 05:28:12,085 - INFO - Clicked 'show more' button
+2025-10-23 05:28:16,831 - INFO - Scraped Ms Nada Al Meqbali (70 total)
+2025-10-23 05:28:20,552 - INFO - Skipped Semih Ozkan (already in database)
+2025-10-23 05:28:24,213 - INFO - Skipped Mr Sunil  Kumar (already in database)
+2025-10-23 05:28:25,052 - INFO - Scrolling (swipe #14)
+2025-10-23 05:28:28,011 - INFO - Scroll complete (swipe 14)
+2025-10-23 05:28:31,464 - INFO - Scraped Mr Mark  Anderson (71 total)
+2025-10-23 05:28:36,707 - INFO - Scraped Mr Ronan Bescond (72 total)
+2025-10-23 05:28:40,591 - INFO - Skipped Ms Noura Al Nuaimi (already in database)
+2025-10-23 05:28:43,342 - INFO - Scraped Mr Maurits  van Tol (73 total)
+2025-10-23 05:28:47,474 - INFO - Scraped Engr Abdulaziz Al Shidhani (74 total)
+2025-10-23 05:28:51,334 - INFO - Skipped Mr Ali Abouda (already in database)
+2025-10-23 05:28:54,834 - INFO - Skipped Mr Naser  Al Hajri (already in database)
+2025-10-23 05:28:57,581 - INFO - Skipped Mr Mohamed Sijilmassi (already in database)
